@@ -1,0 +1,2485 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{ref25}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=3c7fc2b34220ac045977ebfb6c6131ad}{%
+           family={Macariola},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{db8632cdebe13fb025f45fdbd1c4073c}
+      \strng{fullhash}{db8632cdebe13fb025f45fdbd1c4073c}
+      \strng{fullhashraw}{db8632cdebe13fb025f45fdbd1c4073c}
+      \strng{bibnamehash}{db8632cdebe13fb025f45fdbd1c4073c}
+      \strng{authorbibnamehash}{db8632cdebe13fb025f45fdbd1c4073c}
+      \strng{authornamehash}{db8632cdebe13fb025f45fdbd1c4073c}
+      \strng{authorfullhash}{db8632cdebe13fb025f45fdbd1c4073c}
+      \strng{authorfullhashraw}{db8632cdebe13fb025f45fdbd1c4073c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Pharmacology}
+      \field{title}{Breaking barriers amid the pandemic: The status of telehealth in {Southeast Asia} and its potential as a mode of healthcare delivery in the {Philippines}}
+      \field{volume}{12}
+      \field{year}{2021}
+      \field{pages}{754011}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fphar.2021.754011
+      \endverb
+    \endentry
+    \entry{ref59}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=9c97933a514a407c19c4c5acc4974946}{%
+           family={Pickering},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{16d685b068043a2a86d26eb629ba17a2}
+      \strng{fullhash}{16d685b068043a2a86d26eb629ba17a2}
+      \strng{fullhashraw}{16d685b068043a2a86d26eb629ba17a2}
+      \strng{bibnamehash}{16d685b068043a2a86d26eb629ba17a2}
+      \strng{authorbibnamehash}{16d685b068043a2a86d26eb629ba17a2}
+      \strng{authornamehash}{16d685b068043a2a86d26eb629ba17a2}
+      \strng{authorfullhash}{16d685b068043a2a86d26eb629ba17a2}
+      \strng{authorfullhashraw}{16d685b068043a2a86d26eb629ba17a2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Telehealth Medicine Today}
+      \field{number}{1}
+      \field{title}{A building blocks approach to implementing a telehealth clinic model to improve primary care access in the {Philippines}: A large-scale pilot project}
+      \field{volume}{9}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.30953/tmt.v9.596
+      \endverb
+    \endentry
+    \entry{ref36}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=acb393d286788e2ce1e3501e88d09983}{%
+           family={{Philippine Primary Care Studies}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{acb393d286788e2ce1e3501e88d09983}
+      \strng{fullhash}{acb393d286788e2ce1e3501e88d09983}
+      \strng{fullhashraw}{acb393d286788e2ce1e3501e88d09983}
+      \strng{bibnamehash}{acb393d286788e2ce1e3501e88d09983}
+      \strng{authorbibnamehash}{acb393d286788e2ce1e3501e88d09983}
+      \strng{authornamehash}{acb393d286788e2ce1e3501e88d09983}
+      \strng{authorfullhash}{acb393d286788e2ce1e3501e88d09983}
+      \strng{authorfullhashraw}{acb393d286788e2ce1e3501e88d09983}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philippine Journal of Primary Care}
+      \field{number}{1}
+      \field{title}{Electronic medical records implementation in {Philippine} health facilities during the {COVID-19} pandemic: A multi-site evaluation}
+      \field{volume}{18}
+      \field{year}{2024}
+      \field{pages}{12\bibrangedash 28}
+      \range{pages}{17}
+    \endentry
+    \entry{ref40}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=f4ce52d58b49e9a2ebd16ac92469b5b2}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=9a754aad02aa38e1b614c032a459fb54}{%
+           family={Mendoza},
+           familyi={M\bibinitperiod},
+           given={F.\bibnamedelimi A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=3d798c1c89591d07ec65ba03047ff68c}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a95082c7bdcdbe79a07bbf0be6c24960}
+      \strng{fullhash}{9a30ae05f90b49b5128d40e61ef7a992}
+      \strng{fullhashraw}{9a30ae05f90b49b5128d40e61ef7a992}
+      \strng{bibnamehash}{9a30ae05f90b49b5128d40e61ef7a992}
+      \strng{authorbibnamehash}{9a30ae05f90b49b5128d40e61ef7a992}
+      \strng{authornamehash}{a95082c7bdcdbe79a07bbf0be6c24960}
+      \strng{authorfullhash}{9a30ae05f90b49b5128d40e61ef7a992}
+      \strng{authorfullhashraw}{9a30ae05f90b49b5128d40e61ef7a992}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philippine Journal of Health Informatics}
+      \field{number}{2}
+      \field{title}{Digital transformation of rural health units: Electronic medical records implementation and impact}
+      \field{volume}{12}
+      \field{year}{2021}
+      \field{pages}{67\bibrangedash 83}
+      \range{pages}{17}
+    \endentry
+    \entry{ref1}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=75501d2a481ca84573a0259cb8fe181f}{%
+           family={Abdul},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=667627fb15d98abe6ade31e92be043a9}{%
+           family={Adeghe},
+           familyi={A\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=530d4c4e1dfd58ee58baa9d0b386e944}{%
+           family={Adegoke},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cb5992c527dec9d8e779b04a6276f267}{%
+           family={Udedeh},
+           familyi={U\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3e86fd2f53f95b95dda4eabf1bbed474}
+      \strng{fullhash}{ae3d78d0737986b801c943a773e65ba8}
+      \strng{fullhashraw}{ae3d78d0737986b801c943a773e65ba8}
+      \strng{bibnamehash}{ae3d78d0737986b801c943a773e65ba8}
+      \strng{authorbibnamehash}{ae3d78d0737986b801c943a773e65ba8}
+      \strng{authornamehash}{3e86fd2f53f95b95dda4eabf1bbed474}
+      \strng{authorfullhash}{ae3d78d0737986b801c943a773e65ba8}
+      \strng{authorfullhashraw}{ae3d78d0737986b801c943a773e65ba8}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Medical Sciences Research Journal}
+      \field{number}{5}
+      \field{title}{A review of challenges and opportunities in implementing health informatics in rural healthcare settings}
+      \field{volume}{4}
+      \field{year}{2024}
+      \field{pages}{606\bibrangedash 631}
+      \range{pages}{26}
+    \endentry
+    \entry{ref46}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=4c349949c887d05756e1c79ca64d968b}{%
+           family={Castillo},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4c349949c887d05756e1c79ca64d968b}
+      \strng{fullhash}{4c349949c887d05756e1c79ca64d968b}
+      \strng{fullhashraw}{4c349949c887d05756e1c79ca64d968b}
+      \strng{bibnamehash}{4c349949c887d05756e1c79ca64d968b}
+      \strng{authorbibnamehash}{4c349949c887d05756e1c79ca64d968b}
+      \strng{authornamehash}{4c349949c887d05756e1c79ca64d968b}
+      \strng{authorfullhash}{4c349949c887d05756e1c79ca64d968b}
+      \strng{authorfullhashraw}{4c349949c887d05756e1c79ca64d968b}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Asian Journal of Health Information Management}
+      \field{number}{3}
+      \field{title}{Digital literacy barriers in rural {Philippine} healthcare: Implications for telemedicine adoption}
+      \field{volume}{17}
+      \field{year}{2023}
+      \field{pages}{112\bibrangedash 129}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1080/ajhim.2023.567890
+      \endverb
+    \endentry
+    \entry{ref49}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=e12bcc9ee672c1fdc8c57059f8c8d02f}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{e12bcc9ee672c1fdc8c57059f8c8d02f}
+      \strng{fullhash}{e12bcc9ee672c1fdc8c57059f8c8d02f}
+      \strng{fullhashraw}{e12bcc9ee672c1fdc8c57059f8c8d02f}
+      \strng{bibnamehash}{e12bcc9ee672c1fdc8c57059f8c8d02f}
+      \strng{authorbibnamehash}{e12bcc9ee672c1fdc8c57059f8c8d02f}
+      \strng{authornamehash}{e12bcc9ee672c1fdc8c57059f8c8d02f}
+      \strng{authorfullhash}{e12bcc9ee672c1fdc8c57059f8c8d02f}
+      \strng{authorfullhashraw}{e12bcc9ee672c1fdc8c57059f8c8d02f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Medical Informatics}
+      \field{title}{Cultural adaptation of digital health technologies in rural {Philippines}: A framework for user-centered design}
+      \field{volume}{168}
+      \field{year}{2022}
+      \field{pages}{104583}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ijmedinf.2022.104583
+      \endverb
+    \endentry
+    \entry{ref51}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=8c995f6b22fa1c6e24ae3cb0a6256da3}{%
+           family={Domingo},
+           familyi={D\bibinitperiod},
+           given={R.\bibnamedelimi S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=71340d79d281ef803561869cb791df8e}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=667aac1012081cad473b0ac0f7c95012}{%
+           family={Reyes},
+           familyi={R\bibinitperiod},
+           given={L.\bibnamedelimi M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5cb043977ba98e018132bd6cf1ffa89f}
+      \strng{fullhash}{9c75a9e69383906b1d433e2e8d07790e}
+      \strng{fullhashraw}{9c75a9e69383906b1d433e2e8d07790e}
+      \strng{bibnamehash}{9c75a9e69383906b1d433e2e8d07790e}
+      \strng{authorbibnamehash}{9c75a9e69383906b1d433e2e8d07790e}
+      \strng{authornamehash}{5cb043977ba98e018132bd6cf1ffa89f}
+      \strng{authorfullhash}{9c75a9e69383906b1d433e2e8d07790e}
+      \strng{authorfullhashraw}{9c75a9e69383906b1d433e2e8d07790e}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Telemedicine and Telecare}
+      \field{number}{8}
+      \field{title}{Offline capabilities in telemedicine platforms: Addressing connectivity challenges in rural {Philippines}}
+      \field{volume}{29}
+      \field{year}{2023}
+      \field{pages}{612\bibrangedash 623}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1177/1357633X211045678
+      \endverb
+    \endentry
+    \entry{ref5}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=b0438ffb81a10a072d74a8c506ed9f35}{%
+           family={Almathami},
+           familyi={A\bibinitperiod},
+           given={H.\bibnamedelimi K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=df1b3bd081cc2845085ac36a43f34ac2}{%
+           family={Win},
+           familyi={W\bibinitperiod},
+           given={K.\bibnamedelimi T.},
+           giveni={K\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=d0afd1b3ef6f436182295ae9c5b13e11}{%
+           family={Vlahu-Gjorgievska},
+           familyi={V\bibinithyphendelim G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2c503203180714fa52c5a45c1bcdb15}
+      \strng{fullhash}{3134118b0bcfc97169884df84b6cd7a0}
+      \strng{fullhashraw}{3134118b0bcfc97169884df84b6cd7a0}
+      \strng{bibnamehash}{3134118b0bcfc97169884df84b6cd7a0}
+      \strng{authorbibnamehash}{3134118b0bcfc97169884df84b6cd7a0}
+      \strng{authornamehash}{e2c503203180714fa52c5a45c1bcdb15}
+      \strng{authorfullhash}{3134118b0bcfc97169884df84b6cd7a0}
+      \strng{authorfullhashraw}{3134118b0bcfc97169884df84b6cd7a0}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Medical Internet Research}
+      \field{number}{2}
+      \field{title}{Barriers and facilitators that influence telemedicine-based, real-time, online consultation at patients' homes: Systematic literature review}
+      \field{volume}{22}
+      \field{year}{2020}
+      \field{pages}{e16407}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2196/16407
+      \endverb
+    \endentry
+    \entry{ref34}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=f1e5fa322d638de41d842d5e8e525a77}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={S.\bibnamedelimi W.},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=4012bd1354ef5fbee50cc609a3c651b4}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Y.\bibnamedelimi R.},
+           giveni={Y\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=5b45088d739da1ce1146920b374db593}{%
+           family={Sutandyo},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=33ff57cdd3d3f87ec629cd046feea41f}{%
+           family={Yeo},
+           familyi={Y\bibinitperiod},
+           given={Y.\bibnamedelimi H.},
+           giveni={Y\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=b104401034b9e38c78443fb07f1bffc4}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={Y.\bibnamedelimi Y.},
+           giveni={Y\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=3a9dc3926b13078fd66af2c7d629a248}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={M.\bibnamedelimi E.\bibnamedelimi H.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{94f25f2e175e59f6e493aba418dcbdd3}
+      \strng{fullhash}{b07198560373754d414d16bd7336da33}
+      \strng{fullhashraw}{b07198560373754d414d16bd7336da33}
+      \strng{bibnamehash}{b07198560373754d414d16bd7336da33}
+      \strng{authorbibnamehash}{b07198560373754d414d16bd7336da33}
+      \strng{authornamehash}{94f25f2e175e59f6e493aba418dcbdd3}
+      \strng{authorfullhash}{b07198560373754d414d16bd7336da33}
+      \strng{authorfullhashraw}{b07198560373754d414d16bd7336da33}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cureus}
+      \field{number}{7}
+      \field{title}{Telemedicine in low- and middle-income countries: A scoping review}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{pages}{e26808}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.7759/cureus.26808
+      \endverb
+    \endentry
+    \entry{ref30}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=b37a87290b1be5ae8f7a3917a7a37bc4}{%
+           family={Natafgi},
+           familyi={N\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=10ac2089134cc6a0872398547570d82d}{%
+           family={Shane},
+           familyi={S\bibinitperiod},
+           given={D.\bibnamedelimi M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=996566af289de10e8d6e4917fa4f0bd7}{%
+           family={Ullrich},
+           familyi={U\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b89027fddc8056ab27518b3cae48f425}{%
+           family={MacKinney},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=bab73b065e2855c5b572bd43661937e1}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=2b6e16c2088746cc82413539b74c706d}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={M.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{08795ff5b308291a35efd66ff6dd353a}
+      \strng{fullhash}{9a7ebfbe0b4aa15698161933a9a1273f}
+      \strng{fullhashraw}{9a7ebfbe0b4aa15698161933a9a1273f}
+      \strng{bibnamehash}{9a7ebfbe0b4aa15698161933a9a1273f}
+      \strng{authorbibnamehash}{9a7ebfbe0b4aa15698161933a9a1273f}
+      \strng{authornamehash}{08795ff5b308291a35efd66ff6dd353a}
+      \strng{authorfullhash}{9a7ebfbe0b4aa15698161933a9a1273f}
+      \strng{authorfullhashraw}{9a7ebfbe0b4aa15698161933a9a1273f}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Rural Health}
+      \field{number}{3}
+      \field{title}{Telehealth in critical access hospitals: A mixed-methods study of emergency care telemedicine}
+      \field{volume}{37}
+      \field{year}{2021}
+      \field{pages}{478\bibrangedash 488}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1111/jrh.12370
+      \endverb
+    \endentry
+    \entry{ref27}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=1bb6b57aa1d0b7e61fd9819c9cb53b48}{%
+           family={McCormick},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{1bb6b57aa1d0b7e61fd9819c9cb53b48}
+      \strng{fullhash}{1bb6b57aa1d0b7e61fd9819c9cb53b48}
+      \strng{fullhashraw}{1bb6b57aa1d0b7e61fd9819c9cb53b48}
+      \strng{bibnamehash}{1bb6b57aa1d0b7e61fd9819c9cb53b48}
+      \strng{authorbibnamehash}{1bb6b57aa1d0b7e61fd9819c9cb53b48}
+      \strng{authornamehash}{1bb6b57aa1d0b7e61fd9819c9cb53b48}
+      \strng{authorfullhash}{1bb6b57aa1d0b7e61fd9819c9cb53b48}
+      \strng{authorfullhashraw}{1bb6b57aa1d0b7e61fd9819c9cb53b48}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rural Health Information Hub Case Study}
+      \field{title}{Teleneurology implementation in rural critical access hospital}
+      \field{year}{2021}
+    \endentry
+    \entry{ref15}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=592771f29596260e6fd532478c58cd0e}{%
+           family={Ezeamii},
+           familyi={E\bibinitperiod},
+           given={V.\bibnamedelimi C.},
+           giveni={V\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{3fd37a7f3a99f95a94a1f3891da6e6e7}
+      \strng{fullhash}{3fd37a7f3a99f95a94a1f3891da6e6e7}
+      \strng{fullhashraw}{3fd37a7f3a99f95a94a1f3891da6e6e7}
+      \strng{bibnamehash}{3fd37a7f3a99f95a94a1f3891da6e6e7}
+      \strng{authorbibnamehash}{3fd37a7f3a99f95a94a1f3891da6e6e7}
+      \strng{authornamehash}{3fd37a7f3a99f95a94a1f3891da6e6e7}
+      \strng{authorfullhash}{3fd37a7f3a99f95a94a1f3891da6e6e7}
+      \strng{authorfullhashraw}{3fd37a7f3a99f95a94a1f3891da6e6e7}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cureus}
+      \field{number}{7}
+      \field{title}{Revolutionizing healthcare: How telemedicine is improving patient outcomes and expanding access to care}
+      \field{volume}{16}
+      \field{year}{2024}
+      \field{pages}{e63881}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.7759/cureus.63881
+      \endverb
+    \endentry
+    \entry{ref10}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=51941dd7daee5336b129933453296ff2}{%
+           family={Chu},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=99327c92b5c5f23445ffdb8c352f11b9}{%
+           family={Cram},
+           familyi={C\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7dbae5030b1db2eee4c0645feeeb9300}{%
+           family={Pang},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d7ef8818d0c2542e51eb106f152bac68}{%
+           family={Stamenova},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d718a6772c6e34ddee606bc34d8f32a8}{%
+           family={Tadrous},
+           familyi={T\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2540f9db63830105caa54419a208d6a0}{%
+           family={Bhatia},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4e8715574f2e2cfeb88bc45fd1b99ab0}
+      \strng{fullhash}{1517b209abce3575d78cbc20d1ad85cb}
+      \strng{fullhashraw}{1517b209abce3575d78cbc20d1ad85cb}
+      \strng{bibnamehash}{1517b209abce3575d78cbc20d1ad85cb}
+      \strng{authorbibnamehash}{1517b209abce3575d78cbc20d1ad85cb}
+      \strng{authornamehash}{4e8715574f2e2cfeb88bc45fd1b99ab0}
+      \strng{authorfullhash}{1517b209abce3575d78cbc20d1ad85cb}
+      \strng{authorfullhashraw}{1517b209abce3575d78cbc20d1ad85cb}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Medical Internet Research}
+      \field{number}{4}
+      \field{title}{Rural telemedicine use before and during the {COVID-19} pandemic: Repeated cross-sectional study}
+      \field{volume}{23}
+      \field{year}{2021}
+      \field{pages}{e26960}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2196/26960
+      \endverb
+    \endentry
+    \entry{ref21}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=7906be3d2197a7929fb03418a626f21d}{%
+           family={Kichloo},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{95f6bfe8cc99074c53786f356fbb70c8}
+      \strng{fullhash}{95f6bfe8cc99074c53786f356fbb70c8}
+      \strng{fullhashraw}{95f6bfe8cc99074c53786f356fbb70c8}
+      \strng{bibnamehash}{95f6bfe8cc99074c53786f356fbb70c8}
+      \strng{authorbibnamehash}{95f6bfe8cc99074c53786f356fbb70c8}
+      \strng{authornamehash}{95f6bfe8cc99074c53786f356fbb70c8}
+      \strng{authorfullhash}{95f6bfe8cc99074c53786f356fbb70c8}
+      \strng{authorfullhashraw}{95f6bfe8cc99074c53786f356fbb70c8}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Family Medicine and Community Health}
+      \field{number}{3}
+      \field{title}{Telemedicine, the current {COVID-19} pandemic and the future: A narrative review}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{pages}{e000530}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/fmch-2020-000530
+      \endverb
+    \endentry
+    \entry{ref16}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=05f9c43cff7d7bee28ff7952831b22d8}{%
+           family={Fairchild},
+           familyi={F\bibinitperiod},
+           given={R.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{05f9c43cff7d7bee28ff7952831b22d8}
+      \strng{fullhash}{05f9c43cff7d7bee28ff7952831b22d8}
+      \strng{fullhashraw}{05f9c43cff7d7bee28ff7952831b22d8}
+      \strng{bibnamehash}{05f9c43cff7d7bee28ff7952831b22d8}
+      \strng{authorbibnamehash}{05f9c43cff7d7bee28ff7952831b22d8}
+      \strng{authornamehash}{05f9c43cff7d7bee28ff7952831b22d8}
+      \strng{authorfullhash}{05f9c43cff7d7bee28ff7952831b22d8}
+      \strng{authorfullhashraw}{05f9c43cff7d7bee28ff7952831b22d8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rural Health Quarterly}
+      \field{number}{3}
+      \field{title}{Telehealth adoption barriers among rural healthcare facilities during {COVID-19} pandemic}
+      \field{volume}{14}
+      \field{year}{2019}
+      \field{pages}{127\bibrangedash 145}
+      \range{pages}{19}
+    \endentry
+    \entry{ref12}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=60d3f96b39599c714e446fecdfd6959b}{%
+           family={D'Amore},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=8716855e105c6a569ba3edc4047342e5}{%
+           family={McCullough},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=b654b89fb2410b230c94ca4573e5eafa}{%
+           family={Keene},
+           familyi={K\bibinitperiod},
+           given={D.\bibnamedelimi E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=e57d0b1f72e19c844023fb5ae360f752}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=76eb54a02f93367533337fc19341ded3}{%
+           family={Lowe},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ab5961565bba3e81cbd69036dec904a}
+      \strng{fullhash}{e73c04e1bee96cae8db57eca7ef6799a}
+      \strng{fullhashraw}{e73c04e1bee96cae8db57eca7ef6799a}
+      \strng{bibnamehash}{e73c04e1bee96cae8db57eca7ef6799a}
+      \strng{authorbibnamehash}{e73c04e1bee96cae8db57eca7ef6799a}
+      \strng{authornamehash}{9ab5961565bba3e81cbd69036dec904a}
+      \strng{authorfullhash}{e73c04e1bee96cae8db57eca7ef6799a}
+      \strng{authorfullhashraw}{e73c04e1bee96cae8db57eca7ef6799a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Rural Health}
+      \field{number}{2}
+      \field{title}{Electronic health records in rural hospitals: Challenges and opportunities}
+      \field{volume}{37}
+      \field{year}{2021}
+      \field{pages}{345\bibrangedash 359}
+      \range{pages}{15}
+    \endentry
+    \entry{ref6}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=2c2755e8df3750bbf2f6432e79efc01e}{%
+           family={Anzalone},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1b9a3e61d30802e796cc9f3ca39407ae}{%
+           family={Begay},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=429cd4f24559329957c496f175fa7d34}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={K.\bibnamedelimi A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{eab7fbd17d4dc19cec405d94acddef63}
+      \strng{fullhash}{ba3484845ee174dd90259c2d26ee0fca}
+      \strng{fullhashraw}{ba3484845ee174dd90259c2d26ee0fca}
+      \strng{bibnamehash}{ba3484845ee174dd90259c2d26ee0fca}
+      \strng{authorbibnamehash}{ba3484845ee174dd90259c2d26ee0fca}
+      \strng{authornamehash}{eab7fbd17d4dc19cec405d94acddef63}
+      \strng{authorfullhash}{ba3484845ee174dd90259c2d26ee0fca}
+      \strng{authorfullhashraw}{ba3484845ee174dd90259c2d26ee0fca}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Health Services Research}
+      \field{number}{1}
+      \field{title}{Lower electronic health record adoption and interoperability in rural versus urban physician participants: A cross-sectional analysis}
+      \field{volume}{25}
+      \field{year}{2025}
+      \field{pages}{123}
+      \range{pages}{1}
+    \endentry
+    \entry{ref43}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=d9aa7f71920e8c314b218e3a801769c7}{%
+           family={Zachrison},
+           familyi={Z\bibinitperiod},
+           given={K.\bibnamedelimi S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=26c20ff8373e19654f0121d8d5334206}{%
+           family={Richard},
+           familyi={R\bibinitperiod},
+           given={J.\bibnamedelimi V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=dad7c3cf61645166907d185cbe95c665}{%
+           family={Mehrotra},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1f9891311ca0220dda4236a3f812da3}
+      \strng{fullhash}{c0ad7018dc4890a43c50d9149c912b3e}
+      \strng{fullhashraw}{c0ad7018dc4890a43c50d9149c912b3e}
+      \strng{bibnamehash}{c0ad7018dc4890a43c50d9149c912b3e}
+      \strng{authorbibnamehash}{c0ad7018dc4890a43c50d9149c912b3e}
+      \strng{authornamehash}{c1f9891311ca0220dda4236a3f812da3}
+      \strng{authorfullhash}{c0ad7018dc4890a43c50d9149c912b3e}
+      \strng{authorfullhashraw}{c0ad7018dc4890a43c50d9149c912b3e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of Emergency Medicine}
+      \field{number}{2}
+      \field{title}{Paying for telemedicine in emergency care}
+      \field{volume}{78}
+      \field{year}{2021}
+      \field{pages}{218\bibrangedash 224}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.annemergmed.2020.09.453
+      \endverb
+    \endentry
+    \entry{ref9}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=5ecc04ab7cd8350e63b66dc42451fa3e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5330ed4253088dfa372a5880403b65f7}{%
+           family={Amaize},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ff48521876581cea965db1924c8ad63c}{%
+           family={Barath},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{2b82141a6cdd6fa388208fc3caada893}
+      \strng{fullhash}{0d45207be3530bd0edbaef0c59bff2e7}
+      \strng{fullhashraw}{0d45207be3530bd0edbaef0c59bff2e7}
+      \strng{bibnamehash}{0d45207be3530bd0edbaef0c59bff2e7}
+      \strng{authorbibnamehash}{0d45207be3530bd0edbaef0c59bff2e7}
+      \strng{authornamehash}{2b82141a6cdd6fa388208fc3caada893}
+      \strng{authorfullhash}{0d45207be3530bd0edbaef0c59bff2e7}
+      \strng{authorfullhashraw}{0d45207be3530bd0edbaef0c59bff2e7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Primary Care and Community Health}
+      \field{title}{Barriers to sustaining telemedicine during {COVID-19} in rural areas}
+      \field{volume}{11}
+      \field{year}{2020}
+      \field{pages}{2150132720957356}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/2150132720957356
+      \endverb
+    \endentry
+    \entry{ref31}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=6b693bb936a9fea71de1c467c02a9faa}{%
+           family={Ngugi},
+           familyi={N\bibinitperiod},
+           given={A.\bibnamedelimi K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=eb54aaf88b645ed78eebc8ecabedf2b2}{%
+           family={Mbugua},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi K.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{0506ed93e589ee166f56a0d1d3200863}
+      \strng{fullhash}{0506ed93e589ee166f56a0d1d3200863}
+      \strng{fullhashraw}{0506ed93e589ee166f56a0d1d3200863}
+      \strng{bibnamehash}{0506ed93e589ee166f56a0d1d3200863}
+      \strng{authorbibnamehash}{0506ed93e589ee166f56a0d1d3200863}
+      \strng{authornamehash}{0506ed93e589ee166f56a0d1d3200863}
+      \strng{authorfullhash}{0506ed93e589ee166f56a0d1d3200863}
+      \strng{authorfullhashraw}{0506ed93e589ee166f56a0d1d3200863}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Health Services Research}
+      \field{number}{1}
+      \field{title}{Community health workers and telemedicine in rural {Kenya}: Overcoming infrastructure barriers}
+      \field{volume}{21}
+      \field{year}{2021}
+      \field{pages}{456}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12913-021-06478-9
+      \endverb
+    \endentry
+    \entry{ref48}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=91f28b9f388e510775c9214f3446208e}{%
+           family={Chandrasekaran},
+           familyi={C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ab62c11cb0e93daea6d7dced5ec8eb79}{%
+           family={Sankaranarayanan},
+           familyi={S\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5eb97f6bff684fdd1a7e7f1e23253e8c}{%
+           family={Pendergrass},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7266ba06d951849e7f7ca070a98c82bc}
+      \strng{fullhash}{d145938ba8fcc86b44799ac96c72c8da}
+      \strng{fullhashraw}{d145938ba8fcc86b44799ac96c72c8da}
+      \strng{bibnamehash}{d145938ba8fcc86b44799ac96c72c8da}
+      \strng{authorbibnamehash}{d145938ba8fcc86b44799ac96c72c8da}
+      \strng{authornamehash}{7266ba06d951849e7f7ca070a98c82bc}
+      \strng{authorfullhash}{d145938ba8fcc86b44799ac96c72c8da}
+      \strng{authorfullhashraw}{d145938ba8fcc86b44799ac96c72c8da}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Medical Informatics}
+      \field{title}{Unfulfilled promises of health information exchange: What inhibits ambulatory clinics from electronically sharing health information?}
+      \field{volume}{149}
+      \field{year}{2021}
+      \field{pages}{104428}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ijmedinf.2021.104428
+      \endverb
+    \endentry
+    \entry{ref62}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=cc3225dd8d629b61c924f92c121794a5}{%
+           family={Soriano},
+           familyi={S\bibinitperiod},
+           given={E.\bibnamedelimi P.},
+           giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8981e20e726ee04e803274de9664fdcf}{%
+           family={Martinez},
+           familyi={M\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1783a57b36bbe1da6c8b42d76839230}
+      \strng{fullhash}{a1783a57b36bbe1da6c8b42d76839230}
+      \strng{fullhashraw}{a1783a57b36bbe1da6c8b42d76839230}
+      \strng{bibnamehash}{a1783a57b36bbe1da6c8b42d76839230}
+      \strng{authorbibnamehash}{a1783a57b36bbe1da6c8b42d76839230}
+      \strng{authornamehash}{a1783a57b36bbe1da6c8b42d76839230}
+      \strng{authorfullhash}{a1783a57b36bbe1da6c8b42d76839230}
+      \strng{authorfullhashraw}{a1783a57b36bbe1da6c8b42d76839230}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMJ Open}
+      \field{number}{8}
+      \field{title}{Perspectives on telemedicine across urban, rural and remote areas in the {Philippines} during the {COVID-19} pandemic}
+      \field{volume}{14}
+      \field{year}{2024}
+      \field{pages}{e084425}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmjhci-2023-100837
+      \endverb
+    \endentry
+    \entry{ref41}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=fa20af167265953827f699c24b8c8503}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{fa20af167265953827f699c24b8c8503}
+      \strng{fullhash}{fa20af167265953827f699c24b8c8503}
+      \strng{fullhashraw}{fa20af167265953827f699c24b8c8503}
+      \strng{bibnamehash}{fa20af167265953827f699c24b8c8503}
+      \strng{authorbibnamehash}{fa20af167265953827f699c24b8c8503}
+      \strng{authornamehash}{fa20af167265953827f699c24b8c8503}
+      \strng{authorfullhash}{fa20af167265953827f699c24b8c8503}
+      \strng{authorfullhashraw}{fa20af167265953827f699c24b8c8503}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Medical Internet Research}
+      \field{number}{6}
+      \field{title}{Data privacy and security concerns in electronic health records: Implications for patient trust}
+      \field{volume}{23}
+      \field{year}{2021}
+      \field{pages}{e26789}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2196/26789
+      \endverb
+    \endentry
+    \entry{ref32}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=d175ed3f0510ad11c0dba6277702edd7}{%
+           family={Noceda},
+           familyi={N\bibinitperiod},
+           given={A.\bibnamedelimi V.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee3eec3bb4d655a461d675e3fa6e61ab}
+      \strng{fullhash}{ee3eec3bb4d655a461d675e3fa6e61ab}
+      \strng{fullhashraw}{ee3eec3bb4d655a461d675e3fa6e61ab}
+      \strng{bibnamehash}{ee3eec3bb4d655a461d675e3fa6e61ab}
+      \strng{authorbibnamehash}{ee3eec3bb4d655a461d675e3fa6e61ab}
+      \strng{authornamehash}{ee3eec3bb4d655a461d675e3fa6e61ab}
+      \strng{authorfullhash}{ee3eec3bb4d655a461d675e3fa6e61ab}
+      \strng{authorfullhashraw}{ee3eec3bb4d655a461d675e3fa6e61ab}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Health Services Research}
+      \field{number}{1}
+      \field{title}{Patient satisfaction with telemedicine in the {Philippines} during the {COVID-19} pandemic: A mixed methods study}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{pages}{277}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12913-023-09127-x
+      \endverb
+    \endentry
+    \entry{ref39}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=db1e4834e2342115ff1b54a9382e8df5}{%
+           family={Salazar},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{db1e4834e2342115ff1b54a9382e8df5}
+      \strng{fullhash}{db1e4834e2342115ff1b54a9382e8df5}
+      \strng{fullhashraw}{db1e4834e2342115ff1b54a9382e8df5}
+      \strng{bibnamehash}{db1e4834e2342115ff1b54a9382e8df5}
+      \strng{authorbibnamehash}{db1e4834e2342115ff1b54a9382e8df5}
+      \strng{authornamehash}{db1e4834e2342115ff1b54a9382e8df5}
+      \strng{authorfullhash}{db1e4834e2342115ff1b54a9382e8df5}
+      \strng{authorfullhashraw}{db1e4834e2342115ff1b54a9382e8df5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philippine Journal of Allied Health Sciences}
+      \field{number}{1}
+      \field{title}{Patient satisfaction with telemedicine consultations in the {Philippines}: A cross-sectional study}
+      \field{volume}{5}
+      \field{year}{2021}
+      \field{pages}{34\bibrangedash 47}
+      \range{pages}{14}
+    \endentry
+    \entry{ref7}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=c40e001bc170b133697454dfe68d20ba}{%
+           family={Aquino},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f4ce52d58b49e9a2ebd16ac92469b5b2}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=427bfcd3fc0463a3a84f5e2b42dab982}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{75a505e8ee32dc5fbb1164630fca49dc}
+      \strng{fullhash}{bb3db486d6654285b2ad1364bbca73da}
+      \strng{fullhashraw}{bb3db486d6654285b2ad1364bbca73da}
+      \strng{bibnamehash}{bb3db486d6654285b2ad1364bbca73da}
+      \strng{authorbibnamehash}{bb3db486d6654285b2ad1364bbca73da}
+      \strng{authornamehash}{75a505e8ee32dc5fbb1164630fca49dc}
+      \strng{authorfullhash}{bb3db486d6654285b2ad1364bbca73da}
+      \strng{authorfullhashraw}{bb3db486d6654285b2ad1364bbca73da}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philippine Journal of Health Research and Development}
+      \field{number}{2}
+      \field{title}{Acceptance and utilization of telemedicine services among senior citizens in the {Philippines} during the {COVID-19} pandemic}
+      \field{volume}{26}
+      \field{year}{2022}
+      \field{pages}{45\bibrangedash 58}
+      \range{pages}{14}
+    \endentry
+    \entry{ref3}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=eb62755ba7d3cbdafb45e70aad51a864}{%
+           family={Adler-Milstein},
+           familyi={A\bibinithyphendelim M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1b1c014fb47169afd6d57accd3b0c6c1}{%
+           family={Pfeifer},
+           familyi={P\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{19b3c3f7c02d9de5845cc5293faa902d}
+      \strng{fullhash}{19b3c3f7c02d9de5845cc5293faa902d}
+      \strng{fullhashraw}{19b3c3f7c02d9de5845cc5293faa902d}
+      \strng{bibnamehash}{19b3c3f7c02d9de5845cc5293faa902d}
+      \strng{authorbibnamehash}{19b3c3f7c02d9de5845cc5293faa902d}
+      \strng{authornamehash}{19b3c3f7c02d9de5845cc5293faa902d}
+      \strng{authorfullhash}{19b3c3f7c02d9de5845cc5293faa902d}
+      \strng{authorfullhashraw}{19b3c3f7c02d9de5845cc5293faa902d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Health Affairs Scholar}
+      \field{number}{5}
+      \field{title}{Pre-pandemic assessment: A decade of progress in electronic health record adoption among {U.S.} hospitals}
+      \field{volume}{1}
+      \field{year}{2023}
+      \field{pages}{qxad056}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/haschl/qxad056
+      \endverb
+    \endentry
+    \entry{ref38}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=9b121822c70c860bbd1f8a090098aa1e}{%
+           family={Rhoades},
+           familyi={R\bibinitperiod},
+           given={C.\bibnamedelimi A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7d2dd90c02c241778e733507597689f9}{%
+           family={Whitacre},
+           familyi={W\bibinitperiod},
+           given={B.\bibnamedelimi E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=f2bea464458b98078828622b214ff39e}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={A.\bibnamedelimi F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce2fdce84c05d224561dd3658b1efbb2}
+      \strng{fullhash}{0962e5fcad54a039456c077a0fe392a4}
+      \strng{fullhashraw}{0962e5fcad54a039456c077a0fe392a4}
+      \strng{bibnamehash}{0962e5fcad54a039456c077a0fe392a4}
+      \strng{authorbibnamehash}{0962e5fcad54a039456c077a0fe392a4}
+      \strng{authornamehash}{ce2fdce84c05d224561dd3658b1efbb2}
+      \strng{authorfullhash}{0962e5fcad54a039456c077a0fe392a4}
+      \strng{authorfullhashraw}{0962e5fcad54a039456c077a0fe392a4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Telemedicine and Telecare}
+      \field{number}{10}
+      \field{title}{Early adoption of telehealth/remote patient monitoring and hospital revenue changes during {COVID-19}}
+      \field{volume}{31}
+      \field{year}{2025}
+      \field{pages}{1456\bibrangedash 1468}
+      \range{pages}{13}
+    \endentry
+    \entry{ref8}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=4fe952951b83b531f48d6d559459062f}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={L.\bibnamedelimi W.},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b74268599f0d1a7b2ac012dcf3cf06cb}
+      \strng{fullhash}{b74268599f0d1a7b2ac012dcf3cf06cb}
+      \strng{fullhashraw}{b74268599f0d1a7b2ac012dcf3cf06cb}
+      \strng{bibnamehash}{b74268599f0d1a7b2ac012dcf3cf06cb}
+      \strng{authorbibnamehash}{b74268599f0d1a7b2ac012dcf3cf06cb}
+      \strng{authornamehash}{b74268599f0d1a7b2ac012dcf3cf06cb}
+      \strng{authorfullhash}{b74268599f0d1a7b2ac012dcf3cf06cb}
+      \strng{authorfullhashraw}{b74268599f0d1a7b2ac012dcf3cf06cb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AIDS and Behavior}
+      \field{number}{1}
+      \field{title}{Impact of a {mHealth} intervention for peer health workers on {AIDS} care in rural {Uganda}: A mixed methods evaluation of a cluster-randomized trial}
+      \field{volume}{26}
+      \field{year}{2022}
+      \field{pages}{25\bibrangedash 36}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/s10461-021-03316-0
+      \endverb
+    \endentry
+    \entry{ref23}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=d4ada0fcbe516daf85f40b05e51b3022}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi Y.},
+           giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=510fca0b2e9671a6bdef10cea18f495d}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi K.},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=baae3844bf938a193ab1fd41cd2266b3}{%
+           family={Chua},
+           familyi={C\bibinitperiod},
+           given={S.\bibnamedelimi S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=f8442205eb9701635b9a0681677d62b7}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={C.\bibnamedelimi J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=83805e26f0bad871cbedd239d17843d7}{%
+           family={Paraidathathu},
+           familyi={P\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d43b4d6836880309e36bedbffaf5d631}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={K.\bibnamedelimi K.},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2e1454710c14e2411df2a542dadfad6}
+      \strng{fullhash}{632fd2266e0f9f7fc02931d929eb6dd3}
+      \strng{fullhashraw}{632fd2266e0f9f7fc02931d929eb6dd3}
+      \strng{bibnamehash}{632fd2266e0f9f7fc02931d929eb6dd3}
+      \strng{authorbibnamehash}{632fd2266e0f9f7fc02931d929eb6dd3}
+      \strng{authornamehash}{b2e1454710c14e2411df2a542dadfad6}
+      \strng{authorfullhash}{632fd2266e0f9f7fc02931d929eb6dd3}
+      \strng{authorfullhashraw}{632fd2266e0f9f7fc02931d929eb6dd3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMJ Open}
+      \field{number}{10}
+      \field{title}{Using telemedicine to support care for people with type 2 diabetes mellitus: A qualitative analysis of patients' perspectives}
+      \field{volume}{10}
+      \field{year}{2020}
+      \field{pages}{e042396}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmjopen-2020-042396
+      \endverb
+    \endentry
+    \entry{ref63}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=57f8460080134cede0c7fe2c4e11760e}{%
+           family={Tiu},
+           familyi={T\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{57f8460080134cede0c7fe2c4e11760e}
+      \strng{fullhash}{57f8460080134cede0c7fe2c4e11760e}
+      \strng{fullhashraw}{57f8460080134cede0c7fe2c4e11760e}
+      \strng{bibnamehash}{57f8460080134cede0c7fe2c4e11760e}
+      \strng{authorbibnamehash}{57f8460080134cede0c7fe2c4e11760e}
+      \strng{authornamehash}{57f8460080134cede0c7fe2c4e11760e}
+      \strng{authorfullhash}{57f8460080134cede0c7fe2c4e11760e}
+      \strng{authorfullhashraw}{57f8460080134cede0c7fe2c4e11760e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Asian Journal of Technology and Innovation}
+      \field{number}{3}
+      \field{title}{User-friendly design considerations for {Filipino} telemedicine platforms: A usability study}
+      \field{volume}{30}
+      \field{year}{2022}
+      \field{pages}{412\bibrangedash 429}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1080/19761597.2021.1987654
+      \endverb
+    \endentry
+    \entry{ref33}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=f16e9e06eb76215a638537c9fa416468}{%
+           family={O'Connor},
+           familyi={O\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8d56b6575836393cb5670a71b1a48258}{%
+           family={Hanlon},
+           familyi={H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=04a64943e30fefd5e8fe6170036975ac}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={C.\bibnamedelimi A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=042c7475431016a8e06aa19168e65775}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6fcbd2aaf105f44c2363bdde8a93ae85}{%
+           family={Glanville},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4070ac342210f6e4d2bb47bb7fc83891}{%
+           family={Mair},
+           familyi={M\bibinitperiod},
+           given={F.\bibnamedelimi S.},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{94137c94642e9e530d549b4a95dfd76f}
+      \strng{fullhash}{1bb50fe9a5e3251ff0c5f52ab588adb3}
+      \strng{fullhashraw}{1bb50fe9a5e3251ff0c5f52ab588adb3}
+      \strng{bibnamehash}{1bb50fe9a5e3251ff0c5f52ab588adb3}
+      \strng{authorbibnamehash}{1bb50fe9a5e3251ff0c5f52ab588adb3}
+      \strng{authornamehash}{94137c94642e9e530d549b4a95dfd76f}
+      \strng{authorfullhash}{1bb50fe9a5e3251ff0c5f52ab588adb3}
+      \strng{authorfullhashraw}{1bb50fe9a5e3251ff0c5f52ab588adb3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMJ Open}
+      \field{number}{5}
+      \field{title}{Barriers and facilitators to patient and public engagement and recruitment to digital health interventions: Protocol of a systematic review of qualitative studies}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{pages}{e048801}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmjopen-2021-048801
+      \endverb
+    \endentry
+    \entry{ref19}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=d4620286331d742c2533dd1293f48ed3}{%
+           family={Gill},
+           familyi={G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=ee6a41b9b781eee2763726304ce8e291}{%
+           family={Dykes},
+           familyi={D\bibinitperiod},
+           given={P.\bibnamedelimi C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=9d4b71e131712dc3702439b80d33b057}{%
+           family={Rudin},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b1591b44cda04eb2309f4444ef1a304e}{%
+           family={Storm},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=298b5b7270c10e3d4cba93f6bd4c55c7}{%
+           family={McGrath},
+           familyi={M\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ffddad842e4620e573bb9c0f5f4e3b6d}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={D.\bibnamedelimi W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d437ba3a72078ed946f6d9efed431c2}
+      \strng{fullhash}{1d2936f2ae64f33fd7bac1a9bc6ac453}
+      \strng{fullhashraw}{1d2936f2ae64f33fd7bac1a9bc6ac453}
+      \strng{bibnamehash}{1d2936f2ae64f33fd7bac1a9bc6ac453}
+      \strng{authorbibnamehash}{1d2936f2ae64f33fd7bac1a9bc6ac453}
+      \strng{authornamehash}{7d437ba3a72078ed946f6d9efed431c2}
+      \strng{authorfullhash}{1d2936f2ae64f33fd7bac1a9bc6ac453}
+      \strng{authorfullhashraw}{1d2936f2ae64f33fd7bac1a9bc6ac453}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Medical Informatics}
+      \field{title}{Technology-facilitated care coordination in rural areas: What is needed?}
+      \field{volume}{137}
+      \field{year}{2020}
+      \field{pages}{104102}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ijmedinf.2020.104102
+      \endverb
+    \endentry
+    \entry{ref18}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=e61106fee48ae53e8342c4f478b49efa}{%
+           family={Garavand},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a5a6311911474197b14e054eb88a3ef2}{%
+           family={Aslani},
+           familyi={A\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=10b91c6070f3479ccc09f467be29a35e}{%
+           family={Nadri},
+           familyi={N\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=025826bed71451b46265c355d0308103}{%
+           family={Abedini},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5757ba5148fa754b7e861c434880fe8}
+      \strng{fullhash}{1d772f7b52e0bc4374c3becfce337fd1}
+      \strng{fullhashraw}{1d772f7b52e0bc4374c3becfce337fd1}
+      \strng{bibnamehash}{1d772f7b52e0bc4374c3becfce337fd1}
+      \strng{authorbibnamehash}{1d772f7b52e0bc4374c3becfce337fd1}
+      \strng{authornamehash}{a5757ba5148fa754b7e861c434880fe8}
+      \strng{authorfullhash}{1d772f7b52e0bc4374c3becfce337fd1}
+      \strng{authorfullhashraw}{1d772f7b52e0bc4374c3becfce337fd1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Health Informatics}
+      \field{number}{1}
+      \field{title}{Acceptance of health information technologies, acceptance of mobile health: A review article}
+      \field{volume}{12}
+      \field{year}{2023}
+      \field{pages}{128}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.30699/fhi.v12i1.456
+      \endverb
+    \endentry
+    \entry{ref22}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a20b0e6460a1b179ab6558fff56d1320}{%
+           family={Kocyigit},
+           familyi={K\bibinitperiod},
+           given={B.\bibnamedelimi F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=8b81e72516612e7c61a2e49f3a831dc4}{%
+           family={Bal},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e112bdfb874a933e3007e33db295519d}
+      \strng{fullhash}{e112bdfb874a933e3007e33db295519d}
+      \strng{fullhashraw}{e112bdfb874a933e3007e33db295519d}
+      \strng{bibnamehash}{e112bdfb874a933e3007e33db295519d}
+      \strng{authorbibnamehash}{e112bdfb874a933e3007e33db295519d}
+      \strng{authornamehash}{e112bdfb874a933e3007e33db295519d}
+      \strng{authorfullhash}{e112bdfb874a933e3007e33db295519d}
+      \strng{authorfullhashraw}{e112bdfb874a933e3007e33db295519d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Health Informatics Journal}
+      \field{number}{2}
+      \field{title}{Factors affecting the acceptance of mobile health applications: A systematic review}
+      \field{volume}{28}
+      \field{year}{2022}
+      \field{pages}{14604582221099259}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/14604582221099259
+      \endverb
+    \endentry
+    \entry{ref45}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=4289637ee9449b32c6b1e7fdb2b50e5e}{%
+           family={Betancor},
+           familyi={B\bibinitperiod},
+           given={P.\bibnamedelimi K.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8d0a40952e00e7013b45d933ed45600}
+      \strng{fullhash}{f8d0a40952e00e7013b45d933ed45600}
+      \strng{fullhashraw}{f8d0a40952e00e7013b45d933ed45600}
+      \strng{bibnamehash}{f8d0a40952e00e7013b45d933ed45600}
+      \strng{authorbibnamehash}{f8d0a40952e00e7013b45d933ed45600}
+      \strng{authornamehash}{f8d0a40952e00e7013b45d933ed45600}
+      \strng{authorfullhash}{f8d0a40952e00e7013b45d933ed45600}
+      \strng{authorfullhashraw}{f8d0a40952e00e7013b45d933ed45600}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Digital Health}
+      \field{title}{Efficient patient care in the digital age: Impact of online appointment scheduling in a medical practice and university hospital on the `no-show' rate}
+      \field{volume}{7}
+      \field{year}{2024}
+      \field{pages}{1567397}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fdgth.2024.1567397
+      \endverb
+    \endentry
+    \entry{ref56}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=ccdd69248d3e04f5200a0053ae9243ee}{%
+           family={Kucuk},
+           familyi={K\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8f424cdc3af64d2263ff82df49f7092c}{%
+           family={Ozkan},
+           familyi={O\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0f4828cc8b0ae07ca780c9b2db46efc1}{%
+           family={Yilmaz},
+           familyi={Y\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{124af9782f97cb9587c9b3c888596430}
+      \strng{fullhash}{9381b8f6e8f2ff63828c171e900e331b}
+      \strng{fullhashraw}{9381b8f6e8f2ff63828c171e900e331b}
+      \strng{bibnamehash}{9381b8f6e8f2ff63828c171e900e331b}
+      \strng{authorbibnamehash}{9381b8f6e8f2ff63828c171e900e331b}
+      \strng{authornamehash}{124af9782f97cb9587c9b3c888596430}
+      \strng{authorfullhash}{9381b8f6e8f2ff63828c171e900e331b}
+      \strng{authorfullhashraw}{9381b8f6e8f2ff63828c171e900e331b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Healthcare}
+      \field{number}{21}
+      \field{title}{A solution to reduce the impact of patients' no-show behavior on hospital operating costs: Artificial intelligence-based appointment system}
+      \field{volume}{12}
+      \field{year}{2024}
+      \field{pages}{2161}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/healthcare12212161
+      \endverb
+    \endentry
+    \entry{ref26}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=e3e0abeabc22804f31f595d7ffd33826}{%
+           family={Mazaheri},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5dd3cf52fda879bc08043a3be53b09e8}{%
+           family={Sadeghi},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3457a6c81e61b4d445376e1b0505de8c}{%
+           family={Ahmadi},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{808e4f9526419c00d67577e8f3803ab3}
+      \strng{fullhash}{a7861666ccdf82682fd12aa17ec0c7ed}
+      \strng{fullhashraw}{a7861666ccdf82682fd12aa17ec0c7ed}
+      \strng{bibnamehash}{a7861666ccdf82682fd12aa17ec0c7ed}
+      \strng{authorbibnamehash}{a7861666ccdf82682fd12aa17ec0c7ed}
+      \strng{authornamehash}{808e4f9526419c00d67577e8f3803ab3}
+      \strng{authorfullhash}{a7861666ccdf82682fd12aa17ec0c7ed}
+      \strng{authorfullhashraw}{a7861666ccdf82682fd12aa17ec0c7ed}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Health Science Reports}
+      \field{number}{7}
+      \field{title}{Evaluation of no-show rate in outpatient clinics with open access scheduling system: A systematic review}
+      \field{volume}{7}
+      \field{year}{2024}
+      \field{pages}{e2169}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1002/hsr2.2169
+      \endverb
+    \endentry
+    \entry{ref17}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=0b758acf13d89ca9f52f800a00ba02ea}{%
+           family={Ferro},
+           familyi={F\bibinitperiod},
+           given={D.\bibnamedelimi B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=8a94d837d296eecbe5ba613828bb9d2e}{%
+           family={Brailsford},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fcd81c071e142aad96d156cbb598c67a}{%
+           family={Bravo},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=652628f425826f7462847f8cd14aba85}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{f989041ceb89c00c30637c33d269c94e}
+      \strng{fullhash}{2698849d5b30d9b4c6c991785e6f663d}
+      \strng{fullhashraw}{2698849d5b30d9b4c6c991785e6f663d}
+      \strng{bibnamehash}{2698849d5b30d9b4c6c991785e6f663d}
+      \strng{authorbibnamehash}{2698849d5b30d9b4c6c991785e6f663d}
+      \strng{authornamehash}{f989041ceb89c00c30637c33d269c94e}
+      \strng{authorfullhash}{2698849d5b30d9b4c6c991785e6f663d}
+      \strng{authorfullhashraw}{2698849d5b30d9b4c6c991785e6f663d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Decision Support Systems}
+      \field{title}{Improving healthcare access management by predicting patient no-show behavior}
+      \field{volume}{138}
+      \field{year}{2020}
+      \field{pages}{113398}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.dss.2020.113398
+      \endverb
+    \endentry
+    \entry{ref13}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=8e036de767c36ce332e3f978a9a80931}{%
+           family={Dantas},
+           familyi={D\bibinitperiod},
+           given={L.\bibnamedelimi F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=c5057de66887997935854ec30b26fed7}{%
+           family={Fleck},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=d5661390553ecd041a0f50e4e76d81a2}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={F.\bibnamedelimi L.\bibnamedelimi Cyrino},
+           giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=6bf75a738916da958b0b73010c1ac39f}{%
+           family={Hamacher},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{47ac8068c1f333a6b1f0da104e6688a0}
+      \strng{fullhash}{ae29d2593a180576791d9996aaf3cb74}
+      \strng{fullhashraw}{ae29d2593a180576791d9996aaf3cb74}
+      \strng{bibnamehash}{ae29d2593a180576791d9996aaf3cb74}
+      \strng{authorbibnamehash}{ae29d2593a180576791d9996aaf3cb74}
+      \strng{authornamehash}{47ac8068c1f333a6b1f0da104e6688a0}
+      \strng{authorfullhash}{ae29d2593a180576791d9996aaf3cb74}
+      \strng{authorfullhashraw}{ae29d2593a180576791d9996aaf3cb74}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Health Policy}
+      \field{number}{4}
+      \field{title}{No-shows in appointment scheduling: A systematic literature review}
+      \field{volume}{122}
+      \field{year}{2018}
+      \field{pages}{412\bibrangedash 421}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.healthpol.2018.02.002
+      \endverb
+    \endentry
+    \entry{ref11}{report}{}{}
+      \name{author}{5}{}{%
+        {{hash=924bb6625c65053a9aaff2125d52d8df}{%
+           family={Cusack},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9fa573fc315aacc58d7269d1a89b2b7f}{%
+           family={Knudson},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=114540e876f9d117664dc216872dc0c5}{%
+           family={Kronstadt},
+           familyi={K\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a38634f478303860d8fa1b74ee09a6dd}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=1b49a2f153903c259de7cdadf9ac20af}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Agency for Healthcare Research}%
+        {Quality}%
+      }
+      \strng{namehash}{feacc095d084ff25e349e0b1800debb4}
+      \strng{fullhash}{f9f20c3803bc0e54a9e11d2016e6ff53}
+      \strng{fullhashraw}{f9f20c3803bc0e54a9e11d2016e6ff53}
+      \strng{bibnamehash}{f9f20c3803bc0e54a9e11d2016e6ff53}
+      \strng{authorbibnamehash}{f9f20c3803bc0e54a9e11d2016e6ff53}
+      \strng{authornamehash}{feacc095d084ff25e349e0b1800debb4}
+      \strng{authorfullhash}{f9f20c3803bc0e54a9e11d2016e6ff53}
+      \strng{authorfullhashraw}{f9f20c3803bc0e54a9e11d2016e6ff53}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Practice-based population health: Information technology to support transformation to proactive primary care}
+      \field{type}{techreport}
+      \field{year}{2020}
+    \endentry
+    \entry{ref2}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=c34510a9c966d5fde43a4d7ea05edf96}{%
+           family={Acacio-Claro},
+           familyi={A\bibinithyphendelim C\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=9da2fbb776e68cfad6a0bab2fd91a71f}{%
+           family={Estuar},
+           familyi={E\bibinitperiod},
+           given={M.\bibnamedelimi R.\bibnamedelimi J.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=71daece5bbffca8fc0960b05f6081bd0}{%
+           family={Villamor},
+           familyi={V\bibinitperiod},
+           given={D.\bibnamedelimi A.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{61821588879c0738afb75ad0d8d8fb19}
+      \strng{fullhash}{dd9cc8c9723b56cb2de5c4d57ad25129}
+      \strng{fullhashraw}{dd9cc8c9723b56cb2de5c4d57ad25129}
+      \strng{bibnamehash}{dd9cc8c9723b56cb2de5c4d57ad25129}
+      \strng{authorbibnamehash}{dd9cc8c9723b56cb2de5c4d57ad25129}
+      \strng{authornamehash}{61821588879c0738afb75ad0d8d8fb19}
+      \strng{authorfullhash}{dd9cc8c9723b56cb2de5c4d57ad25129}
+      \strng{authorfullhashraw}{dd9cc8c9723b56cb2de5c4d57ad25129}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Medica Philippina}
+      \field{number}{22}
+      \field{title}{Understanding adoption of electronic medical records during a health emergency: An analysis of {EMR} usage logs from rural health facilities in the {Philippines}}
+      \field{volume}{58}
+      \field{year}{2024}
+      \field{pages}{7\bibrangedash 13}
+      \range{pages}{7}
+    \endentry
+    \entry{ref28}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=9a754aad02aa38e1b614c032a459fb54}{%
+           family={Mendoza},
+           familyi={M\bibinitperiod},
+           given={F.\bibnamedelimi A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=3d798c1c89591d07ec65ba03047ff68c}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f4ce52d58b49e9a2ebd16ac92469b5b2}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{edd1eb81370efa5c9892f76b5fa3bcb2}
+      \strng{fullhash}{ceeccb5190081d084fb24e72718baf34}
+      \strng{fullhashraw}{ceeccb5190081d084fb24e72718baf34}
+      \strng{bibnamehash}{ceeccb5190081d084fb24e72718baf34}
+      \strng{authorbibnamehash}{ceeccb5190081d084fb24e72718baf34}
+      \strng{authornamehash}{edd1eb81370efa5c9892f76b5fa3bcb2}
+      \strng{authorfullhash}{ceeccb5190081d084fb24e72718baf34}
+      \strng{authorfullhashraw}{ceeccb5190081d084fb24e72718baf34}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Health Information Science and Systems}
+      \field{number}{1}
+      \field{title}{Electronic medical records adoption in resource-constrained healthcare facilities: Challenges and success factors in the {Philippines}}
+      \field{volume}{11}
+      \field{year}{2023}
+      \field{pages}{18}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s13755-023-00218-4
+      \endverb
+    \endentry
+    \entry{ref14}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=ed7e084b8081100747b9728318358845}{%
+           family={Derecho},
+           familyi={D\bibinitperiod},
+           given={K.\bibnamedelimi C.},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1952a8e86c71a1a9c0daf0a7ff229e4}
+      \strng{fullhash}{c1952a8e86c71a1a9c0daf0a7ff229e4}
+      \strng{fullhashraw}{c1952a8e86c71a1a9c0daf0a7ff229e4}
+      \strng{bibnamehash}{c1952a8e86c71a1a9c0daf0a7ff229e4}
+      \strng{authorbibnamehash}{c1952a8e86c71a1a9c0daf0a7ff229e4}
+      \strng{authornamehash}{c1952a8e86c71a1a9c0daf0a7ff229e4}
+      \strng{authorfullhash}{c1952a8e86c71a1a9c0daf0a7ff229e4}
+      \strng{authorfullhashraw}{c1952a8e86c71a1a9c0daf0a7ff229e4}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{DIGITAL HEALTH}
+      \field{title}{Technology adoption of electronic medical records in developing economies: A systematic review on physicians' perspective}
+      \field{volume}{10}
+      \field{year}{2024}
+      \field{pages}{20552076231224605}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/20552076231224605
+      \endverb
+    \endentry
+    \entry{ref60}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=667aac1012081cad473b0ac0f7c95012}{%
+           family={Reyes},
+           familyi={R\bibinitperiod},
+           given={L.\bibnamedelimi M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=71340d79d281ef803561869cb791df8e}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=e12bcc9ee672c1fdc8c57059f8c8d02f}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{d4b974d550f247b364e835689283c8ce}
+      \strng{fullhash}{f6449de3a2945866194f2147ed98bbee}
+      \strng{fullhashraw}{f6449de3a2945866194f2147ed98bbee}
+      \strng{bibnamehash}{f6449de3a2945866194f2147ed98bbee}
+      \strng{authorbibnamehash}{f6449de3a2945866194f2147ed98bbee}
+      \strng{authornamehash}{d4b974d550f247b364e835689283c8ce}
+      \strng{authorfullhash}{f6449de3a2945866194f2147ed98bbee}
+      \strng{authorfullhashraw}{f6449de3a2945866194f2147ed98bbee}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Health Planning and Management}
+      \field{number}{2}
+      \field{title}{Healthcare provider information systems and referral coordination in {Philippine} rural health units}
+      \field{volume}{38}
+      \field{year}{2023}
+      \field{pages}{456\bibrangedash 471}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1002/hpm.3589
+      \endverb
+    \endentry
+    \entry{ref53}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=dfd369f90a78f4e5766c5e5efb47b80f}{%
+           family={Hernandez},
+           familyi={H\bibinitperiod},
+           given={R.\bibnamedelimi G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d5a620874f2d3c3e187b49c65b4d8185}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{656c0dd4d62319ae56e9909377d62008}
+      \strng{fullhash}{656c0dd4d62319ae56e9909377d62008}
+      \strng{fullhashraw}{656c0dd4d62319ae56e9909377d62008}
+      \strng{bibnamehash}{656c0dd4d62319ae56e9909377d62008}
+      \strng{authorbibnamehash}{656c0dd4d62319ae56e9909377d62008}
+      \strng{authornamehash}{656c0dd4d62319ae56e9909377d62008}
+      \strng{authorfullhash}{656c0dd4d62319ae56e9909377d62008}
+      \strng{authorfullhashraw}{656c0dd4d62319ae56e9909377d62008}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Health Information Management Journal}
+      \field{number}{2}
+      \field{title}{Healthcare provider databases and their impact on clinical efficiency in low-resource settings}
+      \field{volume}{51}
+      \field{year}{2022}
+      \field{pages}{89\bibrangedash 102}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1177/18333583211012345
+      \endverb
+    \endentry
+    \entry{ref35}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=f7eaf30e466baf723b8e8d332acd15c9}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={S.\bibnamedelimi Y.},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=dad7c3cf61645166907d185cbe95c665}{%
+           family={Mehrotra},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5445b056b0b44bd437a4f63bdf0743ee}{%
+           family={Huskamp},
+           familyi={H\bibinitperiod},
+           given={H.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4828fb8d0afa933a8b846c21b724e456}{%
+           family={Uscher-Pines},
+           familyi={U\bibinithyphendelim P\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ca15ade2e71727ca67f0734327ecd701}{%
+           family={Ganguli},
+           familyi={G\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=05bcc39f2649fcfb6ec48b4ea8f495b2}{%
+           family={Barnett},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce04e6cab64a772dae63cccadf8f460c}
+      \strng{fullhash}{5454573fdc688197faa688c920bc5167}
+      \strng{fullhashraw}{5454573fdc688197faa688c920bc5167}
+      \strng{bibnamehash}{5454573fdc688197faa688c920bc5167}
+      \strng{authorbibnamehash}{5454573fdc688197faa688c920bc5167}
+      \strng{authornamehash}{ce04e6cab64a772dae63cccadf8f460c}
+      \strng{authorfullhash}{5454573fdc688197faa688c920bc5167}
+      \strng{authorfullhashraw}{5454573fdc688197faa688c920bc5167}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JAMA Internal Medicine}
+      \field{number}{1}
+      \field{title}{Trends in outpatient care delivery and telemedicine during the {COVID-19} pandemic in the {US}}
+      \field{volume}{183}
+      \field{year}{2023}
+      \field{pages}{44\bibrangedash 54}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1001/jamainternmed.2022.5644
+      \endverb
+    \endentry
+    \entry{ref29}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=444ee84b942c09334b1bc8596f268c27}{%
+           family={{MGMA Research Team}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{444ee84b942c09334b1bc8596f268c27}
+      \strng{fullhash}{444ee84b942c09334b1bc8596f268c27}
+      \strng{fullhashraw}{444ee84b942c09334b1bc8596f268c27}
+      \strng{bibnamehash}{444ee84b942c09334b1bc8596f268c27}
+      \strng{authorbibnamehash}{444ee84b942c09334b1bc8596f268c27}
+      \strng{authornamehash}{444ee84b942c09334b1bc8596f268c27}
+      \strng{authorfullhash}{444ee84b942c09334b1bc8596f268c27}
+      \strng{authorfullhashraw}{444ee84b942c09334b1bc8596f268c27}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{MGMA Stat}
+      \field{month}{12}
+      \field{title}{Shortening wait times for appointments: Patient access strategies for 2025}
+      \field{year}{2024}
+    \endentry
+    \entry{ref57}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=184f057e42d50a48f1c7235832cfaddf}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{184f057e42d50a48f1c7235832cfaddf}
+      \strng{fullhash}{184f057e42d50a48f1c7235832cfaddf}
+      \strng{fullhashraw}{184f057e42d50a48f1c7235832cfaddf}
+      \strng{bibnamehash}{184f057e42d50a48f1c7235832cfaddf}
+      \strng{authorbibnamehash}{184f057e42d50a48f1c7235832cfaddf}
+      \strng{authornamehash}{184f057e42d50a48f1c7235832cfaddf}
+      \strng{authorfullhash}{184f057e42d50a48f1c7235832cfaddf}
+      \strng{authorfullhashraw}{184f057e42d50a48f1c7235832cfaddf}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Healthcare Management}
+      \field{number}{1}
+      \field{title}{Impact of online appointment scheduling on patient satisfaction in ophthalmology practice}
+      \field{volume}{18}
+      \field{year}{2025}
+      \field{pages}{45\bibrangedash 58}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1080/20479700.2024.2345678
+      \endverb
+    \endentry
+    \entry{ref65}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=3702f1c146e64a6c91fc47b81ea59fc7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1f26f664835ac6c347db22001b657f1a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=60aeb23a507616b6ae2488ddaab41f0e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=ce084360cc68e7db4fe6cae1287b3adf}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3edb51e096c6e1b022984c9159c4df2d}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6d91c4b19ef84589045abd442c9ae02}
+      \strng{fullhash}{f6e8c8db46a2404719696d0b9bdfd487}
+      \strng{fullhashraw}{f6e8c8db46a2404719696d0b9bdfd487}
+      \strng{bibnamehash}{f6e8c8db46a2404719696d0b9bdfd487}
+      \strng{authorbibnamehash}{f6e8c8db46a2404719696d0b9bdfd487}
+      \strng{authornamehash}{a6d91c4b19ef84589045abd442c9ae02}
+      \strng{authorfullhash}{f6e8c8db46a2404719696d0b9bdfd487}
+      \strng{authorfullhashraw}{f6e8c8db46a2404719696d0b9bdfd487}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal for Quality in Health Care}
+      \field{number}{2}
+      \field{title}{Digital appointment systems and patient flow optimization in underserved healthcare facilities}
+      \field{volume}{35}
+      \field{year}{2023}
+      \field{pages}{mzad023}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/intqhc/mzad023
+      \endverb
+    \endentry
+    \entry{ref50}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c79c1c5357897123a315b7a8f90b33e}{%
+           family={Rosario},
+           familyi={R\bibinitperiod},
+           given={A.\bibnamedelimi M.\bibnamedelimi Del},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c79c1c5357897123a315b7a8f90b33e}
+      \strng{fullhash}{8c79c1c5357897123a315b7a8f90b33e}
+      \strng{fullhashraw}{8c79c1c5357897123a315b7a8f90b33e}
+      \strng{bibnamehash}{8c79c1c5357897123a315b7a8f90b33e}
+      \strng{authorbibnamehash}{8c79c1c5357897123a315b7a8f90b33e}
+      \strng{authornamehash}{8c79c1c5357897123a315b7a8f90b33e}
+      \strng{authorfullhash}{8c79c1c5357897123a315b7a8f90b33e}
+      \strng{authorfullhashraw}{8c79c1c5357897123a315b7a8f90b33e}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philippine Journal of Public Health}
+      \field{number}{1}
+      \field{title}{Digital appointment scheduling systems in {Philippine} rural health centers: Impact on waiting times and patient satisfaction}
+      \field{volume}{15}
+      \field{year}{2024}
+      \field{pages}{78\bibrangedash 92}
+      \range{pages}{15}
+    \endentry
+    \entry{ref37}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=d0080b80afbecfe8d8fa7950587bdb4b}{%
+           family={Ramirez},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{547f177703876e4be009fa691c2ea45b}
+      \strng{fullhash}{547f177703876e4be009fa691c2ea45b}
+      \strng{fullhashraw}{547f177703876e4be009fa691c2ea45b}
+      \strng{bibnamehash}{547f177703876e4be009fa691c2ea45b}
+      \strng{authorbibnamehash}{547f177703876e4be009fa691c2ea45b}
+      \strng{authornamehash}{547f177703876e4be009fa691c2ea45b}
+      \strng{authorfullhash}{547f177703876e4be009fa691c2ea45b}
+      \strng{authorfullhashraw}{547f177703876e4be009fa691c2ea45b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JMIR Mental Health}
+      \field{number}{4}
+      \field{title}{Automated remote monitoring of depression: Acceptance among low-income patients in diabetes disease management}
+      \field{volume}{8}
+      \field{year}{2021}
+      \field{pages}{e24541}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2196/24541
+      \endverb
+    \endentry
+    \entry{ref4}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=478cafcf1011161d7201d7eeef5e6740}{%
+           family={{National Economic and Development Authority Regional Office 5}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{478cafcf1011161d7201d7eeef5e6740}
+      \strng{fullhash}{478cafcf1011161d7201d7eeef5e6740}
+      \strng{fullhashraw}{478cafcf1011161d7201d7eeef5e6740}
+      \strng{bibnamehash}{478cafcf1011161d7201d7eeef5e6740}
+      \strng{authorbibnamehash}{478cafcf1011161d7201d7eeef5e6740}
+      \strng{authornamehash}{478cafcf1011161d7201d7eeef5e6740}
+      \strng{authorfullhash}{478cafcf1011161d7201d7eeef5e6740}
+      \strng{authorfullhashraw}{478cafcf1011161d7201d7eeef5e6740}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://rdc5.gov.ph/bicol-regional-development-plan-rdp-2023-2028/}}
+      \field{title}{Bicol Regional Development Plan 2023--2028}
+      \field{year}{2023}
+    \endentry
+    \entry{ref42}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=7ae45adf719b8d50a6930187b3390d80}{%
+           family={Wurster},
+           familyi={W\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{2b347b447a484a0ec7d6382a2e1dcd18}
+      \strng{fullhash}{2b347b447a484a0ec7d6382a2e1dcd18}
+      \strng{fullhashraw}{2b347b447a484a0ec7d6382a2e1dcd18}
+      \strng{bibnamehash}{2b347b447a484a0ec7d6382a2e1dcd18}
+      \strng{authorbibnamehash}{2b347b447a484a0ec7d6382a2e1dcd18}
+      \strng{authornamehash}{2b347b447a484a0ec7d6382a2e1dcd18}
+      \strng{authorfullhash}{2b347b447a484a0ec7d6382a2e1dcd18}
+      \strng{authorfullhashraw}{2b347b447a484a0ec7d6382a2e1dcd18}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Implementation Science Communications}
+      \field{number}{1}
+      \field{title}{Roger's diffusion of innovations theory and the adoption of a patient portal's digital anamnesis collection tool: Study protocol for the {MAiBest} project}
+      \field{volume}{5}
+      \field{year}{2024}
+      \field{pages}{74}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s43058-024-00614-8
+      \endverb
+    \endentry
+    \entry{ref52}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=c25925723f24b9904047a62c2081ff2b}{%
+           family={{eBusiness@Newcastle}},
+           familyi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{c25925723f24b9904047a62c2081ff2b}
+      \strng{fullhash}{c25925723f24b9904047a62c2081ff2b}
+      \strng{fullhashraw}{c25925723f24b9904047a62c2081ff2b}
+      \strng{bibnamehash}{c25925723f24b9904047a62c2081ff2b}
+      \strng{authorbibnamehash}{c25925723f24b9904047a62c2081ff2b}
+      \strng{authornamehash}{c25925723f24b9904047a62c2081ff2b}
+      \strng{authorfullhash}{c25925723f24b9904047a62c2081ff2b}
+      \strng{authorfullhashraw}{c25925723f24b9904047a62c2081ff2b}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://open.ncl.ac.uk/theories/3/task-technology-fit/}}
+      \field{title}{Task-Technology Fit --- {TheoryHub} --- Academic theories reviews for research and {T\&L}}
+    \endentry
+    \entry{ref58}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=1b8f62b5f97c69786f0550dce55beb88}{%
+           family={Marikyan},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=26652bdd87b3ff1d448600b8bf558ffb}{%
+           family={Papagiannidis},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{07927939371387c6cf10ec0e56912fe5}
+      \strng{fullhash}{07927939371387c6cf10ec0e56912fe5}
+      \strng{fullhashraw}{07927939371387c6cf10ec0e56912fe5}
+      \strng{bibnamehash}{07927939371387c6cf10ec0e56912fe5}
+      \strng{authorbibnamehash}{07927939371387c6cf10ec0e56912fe5}
+      \strng{authornamehash}{07927939371387c6cf10ec0e56912fe5}
+      \strng{authorfullhash}{07927939371387c6cf10ec0e56912fe5}
+      \strng{authorfullhashraw}{07927939371387c6cf10ec0e56912fe5}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://eprints.ncl.ac.uk/302879}}
+      \field{note}{Newcastle University}
+      \field{title}{Technology Acceptance Model: A review}
+      \field{year}{2024}
+    \endentry
+    \entry{ref66}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=531217507bec092b6ec36c0f78f46736}{%
+           family={{World Health Organization}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhashraw}{531217507bec092b6ec36c0f78f46736}
+      \strng{bibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorbibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authornamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhashraw}{531217507bec092b6ec36c0f78f46736}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.emro.who.int/health-topics/ehealth/}}
+      \field{title}{{eHealth}}
+      \field{year}{2023}
+    \endentry
+    \entry{ref20}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=409fc71139d9dc24eb5f65c0d34637e2}{%
+           family={Kepper},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c98d4404789d18d0aad0f5443d2696b6}
+      \strng{fullhash}{c98d4404789d18d0aad0f5443d2696b6}
+      \strng{fullhashraw}{c98d4404789d18d0aad0f5443d2696b6}
+      \strng{bibnamehash}{c98d4404789d18d0aad0f5443d2696b6}
+      \strng{authorbibnamehash}{c98d4404789d18d0aad0f5443d2696b6}
+      \strng{authornamehash}{c98d4404789d18d0aad0f5443d2696b6}
+      \strng{authorfullhash}{c98d4404789d18d0aad0f5443d2696b6}
+      \strng{authorfullhashraw}{c98d4404789d18d0aad0f5443d2696b6}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Medical Internet Research}
+      \field{title}{Expanding a behavioral view on digital health access: Drivers and strategies to promote equity}
+      \field{volume}{26}
+      \field{year}{2024}
+      \field{pages}{e51355}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2196/51355
+      \endverb
+    \endentry
+    \entry{ref24}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=c9a3728dcc2397d1bab78a791b51779b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=caed37e5312ee6b23b46854d6510cfc6}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=32e563370422457790db030ab2c13183}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d13afb2c574a18a228890c06157fd35b}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b26886cabde4f6202af5174b37a09ec}
+      \strng{fullhash}{351ae157ea0a91979a50c6d707ea0d83}
+      \strng{fullhashraw}{351ae157ea0a91979a50c6d707ea0d83}
+      \strng{bibnamehash}{351ae157ea0a91979a50c6d707ea0d83}
+      \strng{authorbibnamehash}{351ae157ea0a91979a50c6d707ea0d83}
+      \strng{authornamehash}{0b26886cabde4f6202af5174b37a09ec}
+      \strng{authorfullhash}{351ae157ea0a91979a50c6d707ea0d83}
+      \strng{authorfullhashraw}{351ae157ea0a91979a50c6d707ea0d83}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://pmc.ncbi.nlm.nih.gov/articles/PMC11923472/}}
+      \field{journaltitle}{Journal of Medical Internet Research}
+      \field{title}{Enabling telemedicine from the system-level perspective: Scoping review}
+      \field{year}{2025}
+    \endentry
+    \entry{ref55}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=7058e4bd76f877c52b621c942b30613c}{%
+           family={{International Organization for Standardization}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{fullhash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{fullhashraw}{7058e4bd76f877c52b621c942b30613c}
+      \strng{bibnamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorbibnamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authornamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorfullhash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorfullhashraw}{7058e4bd76f877c52b621c942b30613c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.iso.org/standard/77520.html}}
+      \field{title}{{ISO 9241-210:2019} Ergonomics of human-system interaction---{Part 210}: Human-centred design for interactive systems}
+      \field{year}{2019}
+    \endentry
+    \entry{ref47}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=3b242b66dfe956017e7e4b5d73d0c164}{%
+           family={{Centers for Disease Control and Prevention}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b242b66dfe956017e7e4b5d73d0c164}
+      \strng{fullhash}{3b242b66dfe956017e7e4b5d73d0c164}
+      \strng{fullhashraw}{3b242b66dfe956017e7e4b5d73d0c164}
+      \strng{bibnamehash}{3b242b66dfe956017e7e4b5d73d0c164}
+      \strng{authorbibnamehash}{3b242b66dfe956017e7e4b5d73d0c164}
+      \strng{authornamehash}{3b242b66dfe956017e7e4b5d73d0c164}
+      \strng{authorfullhash}{3b242b66dfe956017e7e4b5d73d0c164}
+      \strng{authorfullhashraw}{3b242b66dfe956017e7e4b5d73d0c164}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.cdc.gov/rural-health/php/about/index.html}}
+      \field{title}{About rural health}
+      \field{year}{2025}
+    \endentry
+    \entry{ref61}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=2e41db1ea6786c1f22c87f3e4df4e13e}{%
+           family={{S-Pro}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e41db1ea6786c1f22c87f3e4df4e13e}
+      \strng{fullhash}{2e41db1ea6786c1f22c87f3e4df4e13e}
+      \strng{fullhashraw}{2e41db1ea6786c1f22c87f3e4df4e13e}
+      \strng{bibnamehash}{2e41db1ea6786c1f22c87f3e4df4e13e}
+      \strng{authorbibnamehash}{2e41db1ea6786c1f22c87f3e4df4e13e}
+      \strng{authornamehash}{2e41db1ea6786c1f22c87f3e4df4e13e}
+      \strng{authorfullhash}{2e41db1ea6786c1f22c87f3e4df4e13e}
+      \strng{authorfullhashraw}{2e41db1ea6786c1f22c87f3e4df4e13e}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://s-pro.io/blog/telemedicine-system-components-architecture}}
+      \field{title}{Components of telemedicine: System architecture overview for 2024}
+      \field{year}{2024}
+    \endentry
+    \entry{ref67}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=78085475b55666a155daff1ce8e53cff}{%
+           family={Thanthrige},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fb48e9d2a5084d15e25c866a2adf3d66}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=bed4619d913f66e28ea1fbdce62cfc72}{%
+           family={Sako},
+           familyi={S\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=87f3da913c78615b3d23b8e756292c21}{%
+           family={Wickramasinghe},
+           familyi={W\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{85e65b110de95435531bf5e09ae62a2e}
+      \strng{fullhash}{3bf2b418fbbbed272c7e2d2b35f85d90}
+      \strng{fullhashraw}{3bf2b418fbbbed272c7e2d2b35f85d90}
+      \strng{bibnamehash}{3bf2b418fbbbed272c7e2d2b35f85d90}
+      \strng{authorbibnamehash}{3bf2b418fbbbed272c7e2d2b35f85d90}
+      \strng{authornamehash}{85e65b110de95435531bf5e09ae62a2e}
+      \strng{authorfullhash}{3bf2b418fbbbed272c7e2d2b35f85d90}
+      \strng{authorfullhashraw}{3bf2b418fbbbed272c7e2d2b35f85d90}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Medical Internet Research}
+      \field{title}{Determinants of health care technology adoption using an integrated unified theory of acceptance and use of technology and task technology fit model: Systematic review and meta-analysis}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.2196/64524
+      \endverb
+    \endentry
+    \entry{ref69}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=92c06a5d2bddf648d86908521d6870a2}{%
+           family={Holtz},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6f58e0c0b14381715ddf5e021138e979}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=51e1dcc97ac3c60d40d1cfabfb34bef8}{%
+           family={Hirko},
+           familyi={H\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=05629b041ca99c73fded88762f3b3047}{%
+           family={Ford},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{6835bb21a4825e3520a8dc70703fef24}
+      \strng{fullhash}{953a5701ce830d586b42a4f16cbe72b6}
+      \strng{fullhashraw}{953a5701ce830d586b42a4f16cbe72b6}
+      \strng{bibnamehash}{953a5701ce830d586b42a4f16cbe72b6}
+      \strng{authorbibnamehash}{953a5701ce830d586b42a4f16cbe72b6}
+      \strng{authornamehash}{6835bb21a4825e3520a8dc70703fef24}
+      \strng{authorfullhash}{953a5701ce830d586b42a4f16cbe72b6}
+      \strng{authorfullhashraw}{953a5701ce830d586b42a4f16cbe72b6}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JMIR Formative Research}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Using the {Technology Acceptance Model} to characterize barriers and opportunities of telemedicine in rural populations: Survey and interview study}
+      \field{volume}{6}
+      \field{year}{2022}
+      \field{pages}{e35130}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2196/35130
+      \endverb
+    \endentry
+    \entry{ref68}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=51ea346d2f489afb2b566a41a5721e45}{%
+           family={Tsogbe},
+           familyi={T\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3ab4723487eb917b2e440151ca2390d9}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8396601b60d3c5cdb4b7eea5ac9156bd}{%
+           family={Gyanmea},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=56257e7692baaaea5d3942f58830071c}{%
+           family={Gyasi},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ea2e102d05115bdf949864a073e2aec}
+      \strng{fullhash}{3dcba4b9f1252e814fd39947ccf2da2b}
+      \strng{fullhashraw}{3dcba4b9f1252e814fd39947ccf2da2b}
+      \strng{bibnamehash}{3dcba4b9f1252e814fd39947ccf2da2b}
+      \strng{authorbibnamehash}{3dcba4b9f1252e814fd39947ccf2da2b}
+      \strng{authornamehash}{8ea2e102d05115bdf949864a073e2aec}
+      \strng{authorfullhash}{3dcba4b9f1252e814fd39947ccf2da2b}
+      \strng{authorfullhashraw}{3dcba4b9f1252e814fd39947ccf2da2b}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLOS Global Public Health}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Adopting telehealth for mental health support in stroke rehabilitation in {Sub-Saharan Africa}: A conceptual analysis using {Rogers}' {Diffusion} of {Innovation Theory}}
+      \field{volume}{6}
+      \field{year}{2026}
+      \field{pages}{e0005025}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pgph.0005025
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

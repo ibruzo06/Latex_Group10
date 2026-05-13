@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1778557810.28561 "main.bcf" "main.bbl" "main" 1778595194.9758 0
-  "main.bcf" 1778595194 115637 8ae6c6fabb0eed04a4be36b224c2b5b1 "pdflatex"
+["biber main"] 1778557810.28561 "main.bcf" "main.bbl" "main" 1778636052.43693 0
+  "main.bcf" 1778636051 115637 8ae6c6fabb0eed04a4be36b224c2b5b1 "pdflatex"
   "references.bib" 1778511582 23386 2a05c0fac61e7761014a9d6904bf21a8 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1778595190.32558 "c:/Users/Jan Iris Bruzo/Downloads/Latex_Group10-main/Latex_Group10-main/main.tex" "main.pdf" "main" 1778595194.97668 0
+["pdflatex"] 1778636043.96034 "c:/Users/Jan Iris Bruzo/Downloads/Latex_Group10-main/Latex_Group10-main/main.tex" "main.pdf" "main" 1778636052.43826 0
   "C:/Users/Jan Iris Bruzo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1778555386 163260 f7138aa97b0a1dcae55100dabb7d9e7d ""
   "C:/Users/Jan Iris Bruzo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1778555460 13354664 f2f85e6bde25b7ca6415e0edcbaf25af ""
   "C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf-pc.enc" 1736607166 2211 c42193888177bc8f86d55dca129a9358 ""
@@ -234,22 +234,23 @@
   "C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
-  "c:/Users/Jan Iris Bruzo/Downloads/Latex_Group10-main/Latex_Group10-main/main.tex" 1778595189 69651 671d2f61f45cba85670858d72e15dd31 ""
+  "c:/Users/Jan Iris Bruzo/Downloads/Latex_Group10-main/Latex_Group10-main/main.tex" 1778636033 70491 8c173e175ebcf0c22c865385e5159ef7 ""
   "images/Conceptual Paradigm.jpg" 1778511582 77895 ec455d973885862527da6795f11569c3 ""
   "images/E-Health for All System design Architecture.jpg" 1778511582 95775 0cf1bcd3f00e7e3bc11338d7b277f654 ""
   "images/System Workflows.jpg" 1778511582 89543 dc6a87759d8a58c039079b0cfa69c79c ""
   "images/Theoretical Paradigm.jpg" 1778511582 42028 59a1db713635eec4481345f35ae4eb39 ""
   "images/Use Case Diagram.jpg" 1778511582 66435 e453a8517170c9075675895c91d3c2fc ""
+  "images/User-Driven Healthcare-2026-05-12-110333.png" 1778583814 2197659 79e342e791d2b2cdaa9ce5c26b044f63 ""
   "images/dfd_level0.png" 1778586120 171497 420ae96c6b369895cc10d9ca74042e5c ""
   "images/dfd_level1_fixed.png" 1778588481 261050 ff4a5fbc7a480f22eb695cbe13a1706f ""
-  "main.aux" 1778595194 22670 edbc0f6df78f72d214af21c873c4ef4a "pdflatex"
+  "main.aux" 1778636051 23128 66cc12bb58e2ae2ca2d978cbef351a7f "pdflatex"
   "main.bbl" 1778557854 109484 7223829c2c246dcdc2a47faef8baf40b "biber main"
-  "main.lof" 1778595194 1257 564cc37079e3eb7c32dce662bfd30dae "pdflatex"
-  "main.lot" 1778595194 1058 d7b586c743d3d5503ebc6f59e15d4781 "pdflatex"
-  "main.out" 1778595194 8214 9abdda979c2c29435f0313cfe9f4f241 "pdflatex"
-  "main.run.xml" 1778595194 2402 05765085d18e81025e591027ecbce8c4 "pdflatex"
-  "main.tex" 1778595189 69651 671d2f61f45cba85670858d72e15dd31 ""
-  "main.toc" 1778595194 3982 c54fed53a24de5c81a932754b935f936 "pdflatex"
+  "main.lof" 1778636051 1410 93f1a9877a72a9a623f08b4c4e270608 "pdflatex"
+  "main.lot" 1778636051 1059 8fca74ff42a60b0b23eeaeb4c3b51b33 "pdflatex"
+  "main.out" 1778636051 8417 8595a5617f27ddbd49d7daf21d6f5da2 "pdflatex"
+  "main.run.xml" 1778636051 2402 05765085d18e81025e591027ecbce8c4 "pdflatex"
+  "main.tex" 1778636033 70491 8c173e175ebcf0c22c865385e5159ef7 ""
+  "main.toc" 1778636051 4080 a0e8f746703f3410a36fd3129d2c67d9 "pdflatex"
   "research.cls" 1778557584 2981 895fbf3e3014f73c160bae305f50ed1f ""
   (generated)
   "main.aux"

@@ -24,25 +24,26 @@
 \contentsline {subsection}{\numberline {2.2.3}Systems Architecture}{15}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}Context Diagram (DFD Level 0)}{18}{subsection.2.2.4}%
 \contentsline {subsection}{\numberline {2.2.5}Data Flow Diagram Level 1}{18}{subsection.2.2.5}%
-\contentsline {section}{\numberline {2.3}Population and Sample}{19}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Research Locale}{20}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Data Gathering Procedure}{20}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Validation and Testing Methods}{21}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Research Instrument}{21}{section.2.7}%
-\contentsline {section}{\numberline {2.8}Ethical Considerations}{22}{section.2.8}%
-\contentsline {section}{\numberline {2.9}Statistical Tools}{22}{section.2.9}%
-\contentsline {subsection}{\numberline {2.9.1}Descriptive Statistics}{22}{subsection.2.9.1}%
-\contentsline {subsection}{\numberline {2.9.2}Frequency Distribution}{23}{subsection.2.9.2}%
-\contentsline {subsection}{\numberline {2.9.3}Statistical Treatment of Data}{23}{subsection.2.9.3}%
-\contentsline {section}{\numberline {2.10}Project Timeline}{23}{section.2.10}%
-\contentsline {chapter}{\numberline {3}Results and Discussions}{25}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Profile of Respondents}{25}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Current Practices of Rural Healthcare Providers}{25}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Challenges Encountered in the Current System}{27}{section.3.3}%
-\contentsline {section}{\numberline {3.4}System Design and Plans for the Prototype}{29}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Summary of Findings}{29}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Conclusions}{30}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Recommendations}{30}{section.3.7}%
-\contentsline {chapter}{References}{32}{chapter*.16}%
-\contentsline {chapter}{Curriculum Vitae}{39}{chapter*.17}%
-\contentsline {chapter}{Appendices}{40}{chapter*.18}%
+\contentsline {subsection}{\numberline {2.2.6}Entity Relationship Diagram}{19}{subsection.2.2.6}%
+\contentsline {section}{\numberline {2.3}Population and Sample}{20}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Research Locale}{21}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Data Gathering Procedure}{21}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Validation and Testing Methods}{22}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Research Instrument}{22}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Ethical Considerations}{23}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Statistical Tools}{23}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}Descriptive Statistics}{23}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2.9.2}Frequency Distribution}{24}{subsection.2.9.2}%
+\contentsline {subsection}{\numberline {2.9.3}Statistical Treatment of Data}{24}{subsection.2.9.3}%
+\contentsline {section}{\numberline {2.10}Project Timeline}{24}{section.2.10}%
+\contentsline {chapter}{\numberline {3}Results and Discussions}{26}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Profile of Respondents}{26}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Current Practices of Rural Healthcare Providers}{26}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Challenges Encountered in the Current System}{28}{section.3.3}%
+\contentsline {section}{\numberline {3.4}System Design and Plans for the Prototype}{30}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Summary of Findings}{30}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Conclusions}{31}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Recommendations}{31}{section.3.7}%
+\contentsline {chapter}{References}{33}{chapter*.17}%
+\contentsline {chapter}{Curriculum Vitae}{40}{chapter*.18}%
+\contentsline {chapter}{Appendices}{41}{chapter*.19}%

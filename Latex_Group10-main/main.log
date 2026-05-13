@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.5.12)  12 MAY 2026 22:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.5.12)  13 MAY 2026 09:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1441,7 +1441,7 @@ Chapter 1.
 
 
 ] [2] [3] [4] [5]
-<images/Theoretical Paradigm.jpg, id=495, 703.62875pt x 583.17876pt>
+<images/Theoretical Paradigm.jpg, id=502, 703.62875pt x 583.17876pt>
 File: images/Theoretical Paradigm.jpg Graphic file (type jpg)
 <use images/Theoretical Paradigm.jpg>
 Package pdftex.def Info: images/Theoretical Paradigm.jpg  used on input line 451.
@@ -1451,7 +1451,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.95pt on input line 453.
  [6 <./images/Theoretical Paradigm.jpg>]
-<images/Conceptual Paradigm.jpg, id=500, 433.62pt x 497.60907pt>
+<images/Conceptual Paradigm.jpg, id=507, 433.62pt x 497.60907pt>
 File: images/Conceptual Paradigm.jpg Graphic file (type jpg)
 <use images/Conceptual Paradigm.jpg>
 Package pdftex.def Info: images/Conceptual Paradigm.jpg  used on input line 478.
@@ -1464,118 +1464,124 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
 
 
 ]
-<images/Use Case Diagram.jpg, id=561, 433.62pt x 563.85657pt>
+<images/Use Case Diagram.jpg, id=568, 433.62pt x 563.85657pt>
 File: images/Use Case Diagram.jpg Graphic file (type jpg)
 <use images/Use Case Diagram.jpg>
 Package pdftex.def Info: images/Use Case Diagram.jpg  used on input line 720.
 (pdftex.def)             Requested size: 390.25536pt x 507.49203pt.
  [13]
-<images/System Workflows.jpg, id=567, 733.74126pt x 889.3225pt>
+<images/System Workflows.jpg, id=574, 733.74126pt x 889.3225pt>
 File: images/System Workflows.jpg Graphic file (type jpg)
 <use images/System Workflows.jpg>
 Package pdftex.def Info: images/System Workflows.jpg  used on input line 734.
 (pdftex.def)             Requested size: 390.25536pt x 473.00778pt.
  [14 <./images/Use Case Diagram.jpg>] [15 <./images/System Workflows.jpg>]
-<images/E-Health for All System design Architecture.jpg, id=577, 401.24907pt x 599.99156pt>
+<images/E-Health for All System design Architecture.jpg, id=584, 401.24907pt x 599.99156pt>
 File: images/E-Health for All System design Architecture.jpg Graphic file (type jpg)
 <use images/E-Health for All System design Architecture.jpg>
 Package pdftex.def Info: images/E-Health for All System design Architecture.jpg  used on input line 761.
 (pdftex.def)             Requested size: 390.25536pt x 583.59326pt.
  [16] [17 <./images/E-Health for All System design Architecture.jpg>]
-<images/dfd_level0.png, id=588, 1967.35pt x 1606.0pt>
+<images/dfd_level0.png, id=595, 1967.35pt x 1606.0pt>
 File: images/dfd_level0.png Graphic file (type png)
 <use images/dfd_level0.png>
 Package pdftex.def Info: images/dfd_level0.png  used on input line 781.
 (pdftex.def)             Requested size: 390.25536pt x 318.57222pt.
-<images/dfd_level1_fixed.png, id=589, 1927.2pt x 1565.85pt>
+<images/dfd_level1_fixed.png, id=596, 1927.2pt x 1565.85pt>
 File: images/dfd_level1_fixed.png Graphic file (type png)
 <use images/dfd_level1_fixed.png>
 Package pdftex.def Info: images/dfd_level1_fixed.png  used on input line 795.
 (pdftex.def)             Requested size: 390.25536pt x 317.08289pt.
  [18 <./images/dfd_level0.png>]
-LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 827.
+<images/User-Driven Healthcare-2026-05-12-110333.png, id=602, 8222.72pt x 6801.41pt>
+File: images/User-Driven Healthcare-2026-05-12-110333.png Graphic file (type png)
+<use images/User-Driven Healthcare-2026-05-12-110333.png>
+Package pdftex.def Info: images/User-Driven Healthcare-2026-05-12-110333.png  used on input line 815.
+(pdftex.def)             Requested size: 390.25536pt x 322.75899pt.
+ [19 <./images/dfd_level1_fixed.png>]
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 847.
  (C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 827.
- [19 <./images/dfd_level1_fixed.png>] [20{C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}] [21] [22]
+(Font)              scaled to size 12.0pt on input line 847.
+ [20 <./images/User-Driven Healthcare-2026-05-12-110333.png>] [21{C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}] [22] [23]
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 10.95pt on input line 1041.
+(Font)              scaled to size 10.95pt on input line 1061.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 8.0pt on input line 1041.
+(Font)              scaled to size 8.0pt on input line 1061.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 6.1pt on input line 1041.
+(Font)              scaled to size 6.1pt on input line 1061.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 10.95pt on input line 1041.
+(Font)              scaled to size 10.95pt on input line 1061.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 8.0pt on input line 1041.
+(Font)              scaled to size 8.0pt on input line 1061.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 6.1pt on input line 1041.
+(Font)              scaled to size 6.1pt on input line 1061.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 10.95pt on input line 1041.
+(Font)              scaled to size 10.95pt on input line 1061.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 8.0pt on input line 1041.
+(Font)              scaled to size 8.0pt on input line 1061.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.1pt on input line 1041.
+(Font)              scaled to size 6.1pt on input line 1061.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 10.95pt on input line 1041.
+(Font)              scaled to size 10.95pt on input line 1061.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 8.0pt on input line 1041.
+(Font)              scaled to size 8.0pt on input line 1061.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.1pt on input line 1041.
+(Font)              scaled to size 6.1pt on input line 1061.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 10.95pt on input line 1041.
+(Font)              scaled to size 10.95pt on input line 1061.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 8.0pt on input line 1041.
+(Font)              scaled to size 8.0pt on input line 1061.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.1pt on input line 1041.
+(Font)              scaled to size 6.1pt on input line 1061.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 10.95pt on input line 1041.
+(Font)              scaled to size 10.95pt on input line 1061.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 8.0pt on input line 1041.
+(Font)              scaled to size 8.0pt on input line 1061.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.1pt on input line 1041.
+(Font)              scaled to size 6.1pt on input line 1061.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 10.95pt on input line 1041.
+(Font)              scaled to size 10.95pt on input line 1061.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 8.0pt on input line 1041.
+(Font)              scaled to size 8.0pt on input line 1061.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.1pt on input line 1041.
+(Font)              scaled to size 6.1pt on input line 1061.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 10.95pt on input line 1041.
+(Font)              scaled to size 10.95pt on input line 1061.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 8.0pt on input line 1041.
+(Font)              scaled to size 8.0pt on input line 1061.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.1pt on input line 1041.
+(Font)              scaled to size 6.1pt on input line 1061.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 1046.
- [23] [24]
+(Font)              scaled to size 10.95pt on input line 1066.
+ [24] [25]
 Chapter 3.
-[25
+[26
 
 
-] [26] [27] [28]
-Overfull \hbox (2.01814pt too wide) in paragraph at lines 1355--1363
+] [27] [28] [29]
+Overfull \hbox (2.01814pt too wide) in paragraph at lines 1375--1383
 []\OT1/minntx/m/n/12 This study aimed to de-sign and de-velop E-Health for All, a user-centered telemedicine
  []
 
-[29] [30] [31]
+[30] [31] [32]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 1451.
-LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line 1451.
+(Font)              scaled to size 12.0pt on input line 1471.
+LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line 1471.
  (C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxtt.fd
 File: ot1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
-(Font)              scaled to size 12.0pt on input line 1451.
- [32
+(Font)              scaled to size 12.0pt on input line 1471.
+ [33
 
 
-{C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf-pc.enc}] [33] [34] [35] [36] [37] [38] [39
+{C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf-pc.enc}] [34] [35] [36] [37] [38] [39] [40
 
 
-] [40
+] [41
 
 
 ] (main.aux)
@@ -1584,23 +1590,23 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9ABDDA979C2C29435F0313CFE9F4F241;8214.
+(rerunfilecheck)             Checksum: 8595A5617F27DDBD49D7DAF21D6F5DA2;8417.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35223 strings out of 467691
- 662559 string characters out of 5410595
- 1448975 words of memory out of 5000000
- 63509 multiletter control sequences out of 15000+600000
+ 35237 strings out of 467691
+ 663131 string characters out of 5410595
+ 1449080 words of memory out of 5000000
+ 63520 multiletter control sequences out of 15000+600000
  674767 words of font info for 139 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,131p,767b,1716s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txtt.pfb><C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on main.pdf (46 pages, 1105048 bytes).
+Output written on main.pdf (47 pages, 2113880 bytes).
 PDF statistics:
- 870 PDF objects out of 1000 (max. 8388607)
- 200 named destinations out of 1000 (max. 500000)
- 432 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 883 PDF objects out of 1000 (max. 8388607)
+ 203 named destinations out of 1000 (max. 500000)
+ 445 words of extra memory for PDF output out of 10000 (max. 10000000)
 

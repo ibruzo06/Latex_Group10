@@ -1,5 +1,5 @@
 PWD c:\Users\Jan Iris Bruzo\Downloads\Latex_Group10-main\Latex_Group10-main
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
 INPUT c:\Users\Jan Iris Bruzo\Downloads\Latex_Group10-main\Latex_Group10-main\main.tex
 OUTPUT main.log
 INPUT .\research.cls
@@ -9,7 +9,6 @@ INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\base\repor
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
@@ -21,67 +20,21 @@ INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\iftex\if
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxtext.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxtext.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\xpatch\xpatch.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\xpatch\xpatch.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkeyval.tex
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkvutils.tex
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\xstring\xstring.tex
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\carlisle\scalefnt.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\carlisle\scalefnt.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\mweights\mweights.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\figureversions\figureversions.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\figureversions\figureversions.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxmath.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxmath.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\oberdiek\centernot.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\oberdiek\centernot.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.cfg
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
@@ -105,6 +58,19 @@ INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\t
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
@@ -147,6 +113,8 @@ INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\gettitle
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
@@ -161,9 +129,9 @@ INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\bitset\b
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hxetex.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hxetex.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hxetex.def
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
@@ -175,9 +143,15 @@ INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\logreq\log
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-unicode.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-unicode.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-unicode.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\unicode-data\UnicodeData.txt
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
@@ -232,8 +206,9 @@ INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\syst
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-xetex.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-xetex.def
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-dvipdfmx.def
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
@@ -241,6 +216,14 @@ INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\syst
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
@@ -310,41 +293,17 @@ INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libr
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtlf.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtlf.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtlf.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT .\main.aux
 INPUT .\main.aux
 INPUT main.aux
 OUTPUT main.aux
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxexa.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxexa.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxexa.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmsntxsy.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmsntxsy.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmsntxsy.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmxntxexx.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmxntxexx.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmxntxexx.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\zapfding\pzdr.tfm
 INPUT .\main.out
 INPUT .\main.out
 INPUT main.out
 INPUT main.out
-OUTPUT main.pdf
 INPUT .\main.out
 INPUT .\main.out
 OUTPUT main.out
@@ -355,52 +314,16 @@ INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\newtx\ntx-ot1-tlf.enc
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1minntx.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1minntx.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1minntx.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi7.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy7.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxmia.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxmia.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxmia.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsym.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsym.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsym.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsyc.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsyc.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsyc.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+OUTPUT main.xdv
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
@@ -413,17 +336,12 @@ INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\u
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT .\main.toc
 INPUT .\main.toc
 INPUT main.toc
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
 OUTPUT main.toc
 INPUT .\main.lot
 INPUT .\main.lot
@@ -433,148 +351,30 @@ INPUT .\main.lof
 INPUT .\main.lof
 INPUT main.lof
 OUTPUT main.lof
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
 INPUT .\images\Theoretical Paradigm.jpg
 INPUT .\images\Theoretical Paradigm.jpg
-INPUT .\images\Theoretical Paradigm.jpg
-INPUT .\images\Theoretical Paradigm.jpg
-INPUT .\images\Theoretical Paradigm.jpg
-INPUT .\images\Theoretical Paradigm.jpg
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
 INPUT .\images\Conceptual Paradigm.jpg
 INPUT .\images\Conceptual Paradigm.jpg
-INPUT .\images\Conceptual Paradigm.jpg
-INPUT .\images\Conceptual Paradigm.jpg
-INPUT .\images\Conceptual Paradigm.jpg
-INPUT .\images\Conceptual Paradigm.jpg
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-ot1.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Italic-tlf-ot1.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-ot1r.tfm
-INPUT .\images\Use Case Diagram.jpg
-INPUT .\images\Use Case Diagram.jpg
-INPUT .\images\Use Case Diagram.jpg
-INPUT .\images\Use Case Diagram.jpg
 INPUT .\images\Use Case Diagram.jpg
 INPUT .\images\Use Case Diagram.jpg
 INPUT .\images\System Workflows.jpg
 INPUT .\images\System Workflows.jpg
-INPUT .\images\System Workflows.jpg
-INPUT .\images\System Workflows.jpg
-INPUT .\images\System Workflows.jpg
-INPUT .\images\System Workflows.jpg
-INPUT .\images\E-Health for All System design Architecture.jpg
-INPUT .\images\E-Health for All System design Architecture.jpg
-INPUT .\images\E-Health for All System design Architecture.jpg
-INPUT .\images\E-Health for All System design Architecture.jpg
 INPUT .\images\E-Health for All System design Architecture.jpg
 INPUT .\images\E-Health for All System design Architecture.jpg
 INPUT .\images\dfd_level0.png
 INPUT .\images\dfd_level0.png
-INPUT .\images\dfd_level0.png
-INPUT .\images\dfd_level0.png
-INPUT .\images\dfd_level0.png
-INPUT .\images\dfd_level0.png
-INPUT .\images\dfd_level1_fixed.png
-INPUT .\images\dfd_level1_fixed.png
-INPUT .\images\dfd_level1_fixed.png
-INPUT .\images\dfd_level1_fixed.png
 INPUT .\images\dfd_level1_fixed.png
 INPUT .\images\dfd_level1_fixed.png
 INPUT .\images\User-Driven Healthcare-2026-05-12-110333.png
 INPUT .\images\User-Driven Healthcare-2026-05-12-110333.png
-INPUT .\images\User-Driven Healthcare-2026-05-12-110333.png
-INPUT .\images\User-Driven Healthcare-2026-05-12-110333.png
-INPUT .\images\User-Driven Healthcare-2026-05-12-110333.png
-INPUT .\images\User-Driven Healthcare-2026-05-12-110333.png
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ts1-qtmr.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxmi.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxmia.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\tex-gyre\q-ts1.enc
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi7.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi5.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy7.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy5.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
 INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-ot1.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Italic-tlf-ot1.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-ot1r.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-sc-ot1.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtt.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtt.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtt.fd
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\txfonts\txtt.tfm
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\newtx\ntx-ot1-tlf-pc.enc
+INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
 INPUT main.run.xml
 OUTPUT main.run.xml
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\NewTXMI.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\NewTXMI.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qtmr.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qtmr.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txexs.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txexs.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txmiaX.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txmiaX.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txsys.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txsys.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\txfonts\txtt.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\txfonts\txtt.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmr.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmr.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmri.pfb
-INPUT C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmri.pfb

@@ -16,7 +16,8 @@
 }
 
 % ---------- Fonts ----------
-\RequirePackage{newtxtext,newtxmath}
+\RequirePackage{fontspec}
+\setmainfont{Times New Roman}
 
 % ---------- Line spacing ----------
 \RequirePackage{setspace}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.5.13)  13 MAY 2026 14:00
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.5.13)  15 MAY 2026 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1031,15 +1031,15 @@ Package biblatex Info: Reference segment=0 on input line 38.
  [1
 
 ]
-Overfull \hbox (3.0137pt too wide) in paragraph at lines 93--101
+Overfull \hbox (3.0137pt too wide) in paragraph at lines 92--100
 \TU/TimesNewRoman(0)/b/n/12 ANDREI J. \TU/TimesNewRoman(0)/m/n/12 entitled \TU/TimesNewRoman(0)/b/n/12 “E-HEALTH FOR ALL: A USER-CENTERED TELEMEDICINE
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 119.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 118.
 (C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 119.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 118.
  (C:\Users\Jan Iris Bruzo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [2
@@ -1081,7 +1081,7 @@ Overfull \hbox (11.59764pt too wide) in paragraph at lines 9--9
 ]
 Chapter 1.
 
-Overfull \hbox (5.28352pt too wide) in paragraph at lines 218--225
+Overfull \hbox (5.28352pt too wide) in paragraph at lines 217--224
 []\TU/TimesNewRoman(0)/m/n/12 This initiative aligns with multiple UN Sustainable Development Goals: Good Health
  []
 
@@ -1089,7 +1089,7 @@ Overfull \hbox (5.28352pt too wide) in paragraph at lines 218--225
 
 
 ] [2] [3] [4] [5]
-Overfull \hbox (5.41812pt too wide) in paragraph at lines 437--448
+Overfull \hbox (5.41812pt too wide) in paragraph at lines 436--447
 []\TU/TimesNewRoman(0)/m/n/12 According to Marikyan and Papagiannidis (2024), the Technology Acceptance Model
  []
 
@@ -1112,7 +1112,7 @@ File: images/System Workflows.jpg Graphic file (type bmp)
 File: images/E-Health for All System design Architecture.jpg Graphic file (type bmp)
 <images/E-Health for All System design Architecture.jpg>
  [16]
-Overfull \hbox (2.87045pt too wide) in paragraph at lines 772--778
+Overfull \hbox (2.87045pt too wide) in paragraph at lines 771--777
 []\TU/TimesNewRoman(0)/m/n/12 The Context Diagram shows the entire data flow of the E[]Health for All Telemedicine
  []
 
@@ -1130,12 +1130,12 @@ Chapter 3.
 
 
 ] [27] [28] [29]
-Overfull \hbox (7.5607pt too wide) in paragraph at lines 1356--1368
+Overfull \hbox (7.5607pt too wide) in paragraph at lines 1355--1367
 []\TU/TimesNewRoman(0)/m/n/12 All five proposed features received “Very Important” ratings, with an overall weighted
  []
 
 
-Overfull \hbox (5.9982pt too wide) in paragraph at lines 1375--1383
+Overfull \hbox (5.9982pt too wide) in paragraph at lines 1374--1382
 []\TU/TimesNewRoman(0)/m/n/12 This study aimed to design and develop E-Health for All, a user-centered telemedicine
  []
 
@@ -1143,17 +1143,17 @@ Overfull \hbox (5.9982pt too wide) in paragraph at lines 1375--1383
 
 
 ] [34]
-Underfull \hbox (badness 1221) in paragraph at lines 1471--1471
+Underfull \hbox (badness 1221) in paragraph at lines 1470--1470
 []\TU/TimesNewRoman(0)/m/n/12 M. L. Aquino, R. P. Santos, and J. A. Cruz, “Acceptance and utilization of
  []
 
 [35] [36]
-Underfull \hbox (badness 1242) in paragraph at lines 1471--1471
+Underfull \hbox (badness 1242) in paragraph at lines 1470--1470
 []\TU/TimesNewRoman(0)/m/n/12 K. C. Derecho et al., “Technology adoption of electronic medical records in
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 1471--1471
+Underfull \hbox (badness 2368) in paragraph at lines 1470--1470
 \TU/TimesNewRoman(0)/m/it/12 ITAL HEALTH\TU/TimesNewRoman(0)/m/n/12 , vol. 10, p. 20 552 076 231 224 605, 2024. \TU/TimesNewRoman(0)/m/sc/12 doi\TU/TimesNewRoman(0)/m/n/12 : []$[][] [] [][][][] []
  []
 
@@ -1177,10 +1177,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  33630 strings out of 402807
  678979 string characters out of 5443272
- 1567228 words of memory out of 5000000
+ 1567219 words of memory out of 5000000
  62065 multiletter control sequences out of 15000+600000
  634482 words of font info for 91 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,12n,118p,767b,5032s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (47 pages, 860784 bytes).
+Output written on main.xdv (47 pages, 860540 bytes).

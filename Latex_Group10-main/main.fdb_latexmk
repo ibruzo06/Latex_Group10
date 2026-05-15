@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber main"] 1778650209.83338 "main.bcf" "main.bbl" "main" 1778652030.86354 0
-  "main.bcf" 1778652025 115637 8ae6c6fabb0eed04a4be36b224c2b5b1 "xelatex"
+["biber main"] 1778650209.83338 "main.bcf" "main.bbl" "main" 1778823465.01741 0
+  "main.bcf" 1778823456 115637 8ae6c6fabb0eed04a4be36b224c2b5b1 "xelatex"
   "references.bib" 1778511582 23386 2a05c0fac61e7761014a9d6904bf21a8 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1778652026.08322 "main.xdv" "main.pdf" "main" 1778652030.87259 0
-  "main.xdv" 1778652025 860784 9056e8201d6a58ca807d1e2005a92acb "xelatex"
+["xdvipdfmx"] 1778823457.21132 "main.xdv" "main.pdf" "main" 1778823465.02818 0
+  "main.xdv" 1778823456 860540 44e3d5f6393c864c5cafcd7bd2672c34 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1778652021.48326 "c:/Users/Jan Iris Bruzo/Downloads/Latex_Group10-main/Latex_Group10-main/main.tex" "main.xdv" "main" 1778652030.86385 0
+["xelatex"] 1778823449.73137 "c:/Users/Jan Iris Bruzo/Downloads/Latex_Group10-main/Latex_Group10-main/main.tex" "main.xdv" "main" 1778823465.01778 0
   "C:/Users/Jan Iris Bruzo/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1778650202 27200580 d8a2c3b3a83f26085e962280b7bb8b3b ""
   "C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136743454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -183,7 +183,7 @@
   "C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/Jan Iris Bruzo/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
-  "c:/Users/Jan Iris Bruzo/Downloads/Latex_Group10-main/Latex_Group10-main/main.tex" 1778652015 70482 27ef7f897e7187d128ace2f27e06fa10 ""
+  "c:/Users/Jan Iris Bruzo/Downloads/Latex_Group10-main/Latex_Group10-main/main.tex" 1778823448 70439 5e4cf370ab43806d73eef75f3dfad3a9 ""
   "images/Conceptual Paradigm.jpg" 1778511582 77895 ec455d973885862527da6795f11569c3 ""
   "images/E-Health for All System design Architecture.jpg" 1778511582 95775 0cf1bcd3f00e7e3bc11338d7b277f654 ""
   "images/System Workflows.jpg" 1778511582 89543 dc6a87759d8a58c039079b0cfa69c79c ""
@@ -192,14 +192,14 @@
   "images/User-Driven Healthcare-2026-05-12-110333.png" 1778583814 2197659 79e342e791d2b2cdaa9ce5c26b044f63 ""
   "images/dfd_level0.png" 1778586120 171497 420ae96c6b369895cc10d9ca74042e5c ""
   "images/dfd_level1_fixed.png" 1778588481 261050 ff4a5fbc7a480f22eb695cbe13a1706f ""
-  "main.aux" 1778652025 23117 743cbf3f6a2da503d420610a588d0bca "xelatex"
+  "main.aux" 1778823456 23117 743cbf3f6a2da503d420610a588d0bca "xelatex"
   "main.bbl" 1778650218 109484 7223829c2c246dcdc2a47faef8baf40b "biber main"
-  "main.lof" 1778652025 1410 483b82a2656de6ca2ce73e6379b6eb22 "xelatex"
-  "main.lot" 1778652025 1059 8fca74ff42a60b0b23eeaeb4c3b51b33 "xelatex"
-  "main.out" 1778652025 8417 8595a5617f27ddbd49d7daf21d6f5da2 "xelatex"
-  "main.run.xml" 1778652025 2437 c81361f07ee8b285e6eff88de5a61f4b "xelatex"
-  "main.tex" 1778652015 70482 27ef7f897e7187d128ace2f27e06fa10 ""
-  "main.toc" 1778652025 4080 82e6cf1752c86bbc42c2337cdf2ca086 "xelatex"
+  "main.lof" 1778823456 1410 483b82a2656de6ca2ce73e6379b6eb22 "xelatex"
+  "main.lot" 1778823456 1059 8fca74ff42a60b0b23eeaeb4c3b51b33 "xelatex"
+  "main.out" 1778823456 8417 8595a5617f27ddbd49d7daf21d6f5da2 "xelatex"
+  "main.run.xml" 1778823456 2437 c81361f07ee8b285e6eff88de5a61f4b "xelatex"
+  "main.tex" 1778823448 70439 5e4cf370ab43806d73eef75f3dfad3a9 ""
+  "main.toc" 1778823456 4080 82e6cf1752c86bbc42c2337cdf2ca086 "xelatex"
   "research.cls" 1778650245 3000 1b496d4b165828332490b92f7a104f6e ""
   (generated)
   "main.aux"

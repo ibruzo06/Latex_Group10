@@ -1,106 +1,122 @@
+%% research.cls — Custom class for undergraduate research paper
+%% XeLaTeX compatible — Times New Roman via fontspec
+
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{research}[2025 Custom Research Class for BSIS Capstone]
+\ProvidesClass{research}[2025/01/01 Undergraduate Research Paper Class]
 
-\LoadClass[12pt,letterpaper]{report}
+%% Base class
+\LoadClass[12pt,letterpaper]{article}
 
-% ---------- Page geometry ----------
-\RequirePackage{geometry}
-\geometry{
-  paperwidth=8.5in,
-  paperheight=11in,
-  left=1.5in,
-  right=1in,
-  top=1in,
-  bottom=1in,
-  headheight=14.5pt
-}
+%% ── Packages ──────────────────────────────────────────────────────────────
+\RequirePackage[top=1in,bottom=1in,left=1in,right=1in]{geometry}
+\RequirePackage{setspace}
 
-% ---------- Fonts ----------
+%% fontspec — XeLaTeX native font loader (must come early)
 \RequirePackage{fontspec}
 \setmainfont{Times New Roman}
+\setsansfont{Arial}
+\setmonofont{Courier New}
 
-% ---------- Line spacing ----------
-\RequirePackage{setspace}
-\onehalfspacing
-
-% ---------- Headers / footers ----------
+\RequirePackage{titlesec}
+\RequirePackage{titletoc}
 \RequirePackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-\fancyhead[R]{\thepage}
-\renewcommand{\headrulewidth}{0pt}
-\fancyheadoffset{0pt}
-\fancypagestyle{plain}{%
-  \fancyhf{}%
-  \fancyhead[R]{\thepage}%
-  \renewcommand{\headrulewidth}{0pt}%
+\RequirePackage{graphicx}
+\RequirePackage{booktabs}
+\RequirePackage{longtable}
+\RequirePackage{array}
+\RequirePackage{tabularx}
+\RequirePackage{multirow}
+\RequirePackage{caption}
+\RequirePackage{amsmath}
+\RequirePackage{amssymb}
+\RequirePackage{enumitem}
+\RequirePackage{url}
+\RequirePackage{ragged2e}
+\RequirePackage{indentfirst}
+\RequirePackage{xcolor}
+\RequirePackage{float}
+\RequirePackage{placeins}
+
+%% natbib BEFORE hyperref — numeric [1] [2] style
+\RequirePackage[numbers,sort&compress]{natbib}
+
+%% hyperref after natbib
+\RequirePackage{hyperref}
+\RequirePackage{microtype}
+
+%% ── Line Spacing ──────────────────────────────────────────────────────────
+\doublespacing
+
+%% ── Paragraph formatting ──────────────────────────────────────────────────
+\setlength{\parindent}{0.5in}
+\setlength{\parskip}{0pt}
+
+%% ── Section Headings ──────────────────────────────────────────────────────
+\titleformat{\section}
+  {\normalfont\fontsize{12}{14}\bfseries}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\fontsize{12}{14}\bfseries}{\thesubsection}{1em}{}
+
+\titleformat{\subsubsection}
+  {\normalfont\fontsize{12}{14}\bfseries\itshape}{\thesubsubsection}{1em}{}
+
+\titlespacing*{\section}{0pt}{12pt}{6pt}
+\titlespacing*{\subsection}{0pt}{10pt}{4pt}
+\titlespacing*{\subsubsection}{0pt}{8pt}{4pt}
+
+%% ── Page Style ────────────────────────────────────────────────────────────
+\pagestyle{plain}
+
+%% ── Hyperref ──────────────────────────────────────────────────────────────
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  citecolor=black,
+  urlcolor=blue,
+  bookmarksnumbered=true,
+  pdfborder={0 0 0}
 }
 
-% ---------- Chapter / section formatting ----------
-\RequirePackage{titlesec}
-\titleformat{\chapter}[hang]
-  {\normalfont\Large\bfseries\filcenter}
-  {\thechapter}{1em}{\MakeUppercase}
-\titlespacing*{\chapter}{0pt}{-50pt}{10pt}
-\titleformat{\section}{\normalfont\large\bfseries}{\thesection}{1em}{}
-\titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection}{1em}{}
+%% ── Captions ──────────────────────────────────────────────────────────────
+\captionsetup{
+  font=normalsize,
+  labelfont=bf,
+  justification=centering,
+  singlelinecheck=false
+}
 
-% ---------- TOC formatting ----------
-\RequirePackage{tocloft}
-\renewcommand{\cftchapfont}{\bfseries}
-\renewcommand{\cftchappagefont}{\bfseries}
-\setlength{\cftbeforechapskip}{6pt}
+%% ── Lists ─────────────────────────────────────────────────────────────────
+\setlist[itemize]{leftmargin=0.5in, topsep=2pt, itemsep=1pt}
+\setlist[enumerate]{leftmargin=0.5in, topsep=2pt, itemsep=1pt}
 
-% Match List of Tables and List of Figures to TOC style
-\renewcommand{\cfttoctitlefont}{\hfill\Large\bfseries\MakeUppercase}
-\renewcommand{\cftaftertoctitle}{\hfill}
-\renewcommand{\cftlottitlefont}{\hfill\Large\bfseries\MakeUppercase}
-\renewcommand{\cftafterlottitle}{\hfill}
-\renewcommand{\cftloftitlefont}{\hfill\Large\bfseries\MakeUppercase}
-\renewcommand{\cftafterloftitle}{\hfill}
+%% ── Title Page ────────────────────────────────────────────────────────────
+%% \maketitlepage{title}{subtitle}{institution}{ignored}{authors}{year}{degree}
+\newcommand{\maketitlepage}[7]{%
+  \begin{titlepage}
+    \begin{center}
+      \vspace*{1in}
+      {\large\bfseries #1\par}
+      \vspace{1cm}
+      {\normalsize #2\par}
+      \vspace{1cm}
+      {\normalsize Presented to the Faculty of\par #3\par}
+      \vspace{1cm}
+      {\normalsize In Partial Fulfillment of\par
+        the Requirements for the Degree\par #7\par}
+      \vspace{1.5cm}
+      {\normalsize #5\par}
+      \vspace{1.5cm}
+      {\normalsize #6\par}
+    \end{center}
+  \end{titlepage}
+}
 
-% Reduce spacing after the titles
-\setlength{\cftbeforetoctitleskip}{0pt}
-\setlength{\cftaftertoctitleskip}{12pt}
-\setlength{\cftbeforelottitleskip}{0pt}
-\setlength{\cftafterlottitleskip}{12pt}
-\setlength{\cftbeforeloftitleskip}{0pt}
-\setlength{\cftafterloftitleskip}{12pt}
+%% ── Abstract ──────────────────────────────────────────────────────────────
+\renewenvironment{abstract}{%
+  \section*{Abstract}\addcontentsline{toc}{section}{Abstract}}{}
 
-% ---------- Paragraph formatting ----------
-\setlength{\parskip}{0pt plus 1pt}
-\setlength{\parindent}{0.5in}
-\RequirePackage{indentfirst}
-
-% ---------- Captions ----------
-\RequirePackage{caption}
-\captionsetup{font=small,labelfont=bf,labelsep=period}
-
-% ---------- Graphics, math, tables, lists ----------
-\RequirePackage{graphicx}
-\graphicspath{{images/}}
-\RequirePackage{amsmath}
-\let\Bbbk\relax
-\RequirePackage{amssymb}
-\RequirePackage{booktabs}
-\RequirePackage{array}
-\RequirePackage{longtable}
-\RequirePackage{float}
-\RequirePackage{enumitem}
-
-% ---------- URLs ----------
-\RequirePackage{xurl}
-\RequirePackage[hidelinks]{hyperref}
-
-% ---------- Bibliography: IEEE style ----------
-\RequirePackage[backend=biber,style=ieee,sorting=none]{biblatex}
-\setlength{\bibhang}{0.5in}
-\setlength{\bibitemsep}{6pt}
-\renewcommand*{\bibfont}{\normalfont\normalsize}
-\addbibresource{references.bib}
-
-% ---------- TikZ ----------
-\RequirePackage{tikz}
-\usetikzlibrary{arrows.meta,positioning}
+%% ── Equation numbering ────────────────────────────────────────────────────
+\numberwithin{equation}{section}
 
 \endinput
